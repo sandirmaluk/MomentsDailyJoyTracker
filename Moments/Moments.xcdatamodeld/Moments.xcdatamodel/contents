@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="false" userDefinedModelVersionIdentifier="">
+    <entity name="Moment" representedClassName="Moment" syncable="YES" codeGenerationType="class">
+        <attribute name="id" optional="NO" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="text" optional="NO" attributeType="String"/>
+        <attribute name="emoji" optional="NO" attributeType="String"/>
+        <attribute name="date" optional="NO" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="color" optional="NO" attributeType="String"/>
+    </entity>
+    <entity name="UserSettings" representedClassName="UserSettings" syncable="YES" codeGenerationType="class">
+        <attribute name="id" optional="NO" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="userName" optional="YES" attributeType="String"/>
+        <attribute name="dailyGoal" optional="NO" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="notificationsEnabled" optional="NO" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="notificationTime" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="serverToken" optional="YES" attributeType="String"/>
+        <attribute name="serverLink" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Moment" positionX="-63" positionY="-18" width="128" height="104"/>
+        <element name="UserSettings" positionX="-63" positionY="90" width="128" height="104"/>
+    </elements>
+</model>
