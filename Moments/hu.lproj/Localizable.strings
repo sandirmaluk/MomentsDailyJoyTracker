@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Pillanatok";
+
+// Language Selection
+"Choose your language" = "Válaszd ki a nyelvedet";
+"Your device language:" = "Eszközöd nyelve:";
+"Select Language" = "Nyelv kiválasztása";
+"Continue" = "Folytatás";
+"Language" = "Nyelv";
+"Done" = "Kész";
+
+// Tab Bar
+"Today" = "Ma";
+"Catalog" = "Katalógus";
+"Add" = "Hozzáadás";
+"Statistics" = "Statisztikák";
+"Profile" = "Profil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Napi cél: ✅ Teljesítve";
+"Daily Goal: Add 1 moment" = "Napi cél: Adj hozzá 1 pillanatot";
+"No moments today yet" = "Még nincsenek pillanatok ma";
+"Tap the + button to add your first moment of the day!" = "Nyomd meg a + gombot, hogy hozzáadd a nap első pillanatát!";
+"Daily Goal Achieved!" = "Napi cél elérve!";
+"Great job! Keep it up! 💪" = "Remek munka! Így tovább! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Minden pillanat számít";
+"Find joy in the little things" = "Találj örömet a kis dolgokban";
+"Appreciate the present" = "Becsüld meg a jelent";
+"Small moments make big memories" = "A kis pillanatok nagy emlékeket teremtenek";
+"Happiness is in the details" = "A boldogság a részletekben rejlik";
+"Live in the moment" = "Élj a pillanatban";
+"Cherish every second" = "Becsülj meg minden másodpercet";
+"Find beauty in simplicity" = "Találd meg a szépséget az egyszerűségben";
+"Moments create memories" = "A pillanatok emlékeket teremtenek";
+"Be present, be happy" = "Légy jelen, légy boldog";
+
+// Add Moment View
+"What made you smile today?" = "Mi hozott mosolyt ma az arcodra?";
+"Enter your moment..." = "Add meg a pillanatod...";
+"Enter up to 25 characters" = "Legfeljebb 25 karakter";
+"Choose an emoji" = "Válassz egy emojit";
+"Recently used" = "Nemrég használt";
+"Popular" = "Népszerű";
+"Save Moment" = "Pillanat mentése";
+"Moment saved!" = "Pillanat elmentve!";
+
+// Catalog View
+"Search moments..." = "Pillanatok keresése...";
+"No moments yet" = "Még nincsenek pillanatok";
+"Add your first moment to see it here!" = "Add hozzá az első pillanatod, hogy itt lásd!";
+"No moments found" = "Nem található pillanat";
+"Try searching with different keywords" = "Próbálj más kulcsszavakkal keresni";
+
+// Statistics View
+"Your Moments" = "Pillanataid";
+"Statistics" = "Statisztikák";
+"Top 5 Moments" = "Top 5 pillanat";
+"times" = "alkalommal";
+"Activity" = "Aktivitás";
+"No activity yet" = "Még nincs aktivitás";
+"Time Distribution" = "Időbeosztás";
+"Morning" = "Reggel";
+"Afternoon" = "Délután";
+"Evening" = "Este";
+"Night" = "Éjszaka";
+"Summary" = "Összegzés";
+"Total Moments" = "Összes pillanat";
+"Current Streak" = "Jelenlegi sorozat";
+"Loading statistics..." = "Statisztikák betöltése...";
+"Moments" = "Pillanatok";
+
+// Profile View
+"Moments User" = "Pillanatok felhasználó";
+"Edit name" = "Név szerkesztése";
+"Daily Goal" = "Napi cél";
+"Set a goal to add at least 1 moment per day" = "Tűzz ki célt, hogy naponta legalább 1 pillanatot adj hozzá";
+"Notifications" = "Értesítések";
+"Get reminded to add moments" = "Kapj emlékeztetőket pillanatok hozzáadásához";
+"Reminder Time" = "Emlékeztető ideje";
+"Not set" = "Nincs beállítva";
+"About Moments" = "A Pillanatokról";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "A Pillanatok segít észrevenni és értékelni a kis dolgokat, amelyek széppé teszik az életet. Minden pillanat számít, bármennyire is kicsi.";
+"Thank you for using Moments!" = "Köszönjük, hogy használod a Pillanatokat!";
+"Export Data" = "Adatok exportálása";
+"Clear All Data" = "Minden adat törlése";
+"Delete" = "Törlés";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Biztosan törölni szeretnéd az összes pillanatot és visszaállítani a beállításokat? Ez a művelet nem vonható vissza.";
+"Enter your name" = "Add meg a neved";
+"Save" = "Mentés";
+"Edit Name" = "Név szerkesztése";
+"Cancel" = "Mégse";
+"Set Time" = "Idő beállítása";
+"Set Reminder Time" = "Emlékeztető idejének beállítása";

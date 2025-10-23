@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "时刻";
+
+// Language Selection
+"Choose your language" = "选择您的语言";
+"Your device language:" = "您的设备语言：";
+"Select Language" = "选择语言";
+"Continue" = "继续";
+"Language" = "语言";
+"Done" = "完成";
+
+// Tab Bar
+"Today" = "今天";
+"Catalog" = "目录";
+"Add" = "添加";
+"Statistics" = "统计";
+"Profile" = "个人资料";
+
+// Today View
+"Daily Goal: ✅ Completed" = "每日目标：✅ 已完成";
+"Daily Goal: Add 1 moment" = "每日目标：添加1个时刻";
+"No moments today yet" = "今天还没有时刻";
+"Tap the + button to add your first moment of the day!" = "点击+按钮添加您今天的第一个时刻！";
+"Daily Goal Achieved!" = "每日目标达成！";
+"Great job! Keep it up! 💪" = "做得好！继续保持！💪";
+
+// Inspirational Quotes
+"Every moment matters" = "每个时刻都重要";
+"Find joy in the little things" = "在小事中找到快乐";
+"Appreciate the present" = "珍惜当下";
+"Small moments make big memories" = "小时刻创造大回忆";
+"Happiness is in the details" = "幸福在细节中";
+"Live in the moment" = "活在当下";
+"Cherish every second" = "珍惜每一秒";
+"Find beauty in simplicity" = "在简单中发现美";
+"Moments create memories" = "时刻创造回忆";
+"Be present, be happy" = "活在当下，快乐相随";
+
+// Add Moment View
+"What made you smile today?" = "今天什么让您微笑？";
+"Enter your moment..." = "输入您的时刻...";
+"Enter up to 25 characters" = "输入最多25个字符";
+"Choose an emoji" = "选择一个表情符号";
+"Recently used" = "最近使用";
+"Popular" = "热门";
+"Save Moment" = "保存时刻";
+"Moment saved!" = "时刻已保存！";
+
+// Catalog View
+"Search moments..." = "搜索时刻...";
+"No moments yet" = "还没有时刻";
+"Add your first moment to see it here!" = "添加您的第一个时刻以在此查看！";
+"No moments found" = "未找到时刻";
+"Try searching with different keywords" = "尝试使用不同的关键词搜索";
+
+// Statistics View
+"Your Moments" = "您的时刻";
+"Statistics" = "统计";
+"Top 5 Moments" = "前5个时刻";
+"times" = "次";
+"Activity" = "活动";
+"No activity yet" = "还没有活动";
+"Time Distribution" = "时间分布";
+"Morning" = "早上";
+"Afternoon" = "下午";
+"Evening" = "傍晚";
+"Night" = "夜晚";
+"Summary" = "摘要";
+"Total Moments" = "总时刻数";
+"Current Streak" = "当前连续";
+"Loading statistics..." = "正在加载统计...";
+"Moments" = "时刻";
+
+// Profile View
+"Moments User" = "时刻用户";
+"Edit name" = "编辑姓名";
+"Daily Goal" = "每日目标";
+"Set a goal to add at least 1 moment per day" = "设定每天至少添加1个时刻的目标";
+"Notifications" = "通知";
+"Get reminded to add moments" = "获得添加时刻的提醒";
+"Reminder Time" = "提醒时间";
+"Not set" = "未设置";
+"About Moments" = "关于时刻";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "时刻帮助您注意和欣赏让生活美好的小事。每个时刻都很重要，无论多么微小。";
+"Thank you for using Moments!" = "感谢您使用时刻！";
+"Export Data" = "导出数据";
+"Clear All Data" = "清除所有数据";
+"Delete" = "删除";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "您确定要删除所有时刻并重置设置吗？此操作无法撤消。";
+"Enter your name" = "输入您的姓名";
+"Save" = "保存";
+"Edit Name" = "编辑姓名";
+"Cancel" = "取消";
+"Set Time" = "设置时间";
+"Set Reminder Time" = "设置提醒时间";

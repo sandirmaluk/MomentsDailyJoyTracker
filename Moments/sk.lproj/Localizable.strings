@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Moments
+  Slovak
+*/
+
+// App Title
+"Moments" = "Momenty";
+
+// Language Selection
+"Choose your language" = "Vyberte si jazyk";
+"Your device language:" = "Jazyk vášho zariadenia:";
+"Select Language" = "Vybrať jazyk";
+"Continue" = "Pokračovať";
+"Language" = "Jazyk";
+"Done" = "Hotovo";
+
+// Tab Bar
+"Today" = "Dnes";
+"Catalog" = "Katalóg";
+"Add" = "Pridať";
+"Statistics" = "Štatistiky";
+"Profile" = "Profil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Denný cieľ: ✅ Splnené";
+"Daily Goal: Add 1 moment" = "Denný cieľ: Pridať 1 moment";
+"No moments today yet" = "Dnes zatiaľ žiadne momenty";
+"Tap the + button to add your first moment of the day!" = "Ťukните na tlačidlo + a pridajte svoj prvý moment dňa!";
+"Daily Goal Achieved!" = "Denný cieľ splnený!";
+"Great job! Keep it up! 💪" = "Skvelá práca! Pokračujte! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Každý moment sa počíta";
+"Find joy in the little things" = "Nájdite radosť v malých veciach";
+"Appreciate the present" = "Oceniť prítomnosť";
+"Small moments make big memories" = "Malé momenty vytvárajú veľké spomienky";
+"Happiness is in the details" = "Šťastie je v detailoch";
+"Live in the moment" = "Žite v prítomnosti";
+"Cherish every second" = "Vážte si každú sekundu";
+"Find beauty in simplicity" = "Nájdite krásu v jednoduchosti";
+"Moments create memories" = "Momenty vytvárajú spomienky";
+"Be present, be happy" = "Buďte prítomní, buďte šťastní";
+
+// Add Moment View
+"What made you smile today?" = "Čo vás dnes rozosmialo?";
+"Enter your moment..." = "Zadajte svoj moment...";
+"Enter up to 25 characters" = "Zadajte až 25 znakov";
+"Choose an emoji" = "Vyberte emoji";
+"Recently used" = "Nedávno použité";
+"Popular" = "Obľúbené";
+"Save Moment" = "Uložiť moment";
+"Moment saved!" = "Moment uložený!";
+
+// Catalog View
+"Search moments..." = "Hľadať momenty...";
+"No moments yet" = "Zatiaľ žiadne momenty";
+"Add your first moment to see it here!" = "Pridajte svoj prvý moment, aby ste ho videli tu!";
+"No moments found" = "Nenašli sa žiadne momenty";
+"Try searching with different keywords" = "Skúste vyhľadávať s inými kľúčovými slovami";
+
+// Statistics View
+"Your Moments" = "Vaše momenty";
+"Statistics" = "Štatistiky";
+"Top 5 Moments" = "Top 5 momentov";
+"times" = "krát";
+"Activity" = "Aktivita";
+"No activity yet" = "Zatiaľ žiadna aktivita";
+"Time Distribution" = "Časové rozloženie";
+"Morning" = "Ráno";
+"Afternoon" = "Popoludnie";
+"Evening" = "Večer";
+"Night" = "Noc";
+"Summary" = "Zhrnutie";
+"Total Moments" = "Celkový počet momentov";
+"Current Streak" = "Aktuálna séria";
+"Loading statistics..." = "Načítavanie štatistík...";
+"Moments" = "Momenty";
+
+// Profile View
+"Moments User" = "Používateľ Momentov";
+"Edit name" = "Upraviť meno";
+"Daily Goal" = "Denný cieľ";
+"Set a goal to add at least 1 moment per day" = "Nastavte si cieľ pridať aspoň 1 moment denne";
+"Notifications" = "Oznámenia";
+"Get reminded to add moments" = "Nechajte si pripomenúť pridávanie momentov";
+"Reminder Time" = "Čas pripomienky";
+"Not set" = "Nenastavené";
+"About Moments" = "O aplikácii Momenty";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Momenty vám pomáhajú všímať si a oceňovať malé veci, ktoré robia život krásnym. Každý moment sa počíta, nech je akokoľvek malý.";
+"Thank you for using Moments!" = "Ďakujeme za používanie Momentov!";
+"Export Data" = "Exportovať dáta";
+"Clear All Data" = "Vymazať všetky dáta";
+"Delete" = "Vymazať";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Naozaj chcete vymazať všetky momenty a obnoviť nastavenia? Túto akciu nemožno vrátiť späť.";
+"Enter your name" = "Zadajte svoje meno";
+"Save" = "Uložiť";
+"Edit Name" = "Upraviť meno";
+"Cancel" = "Zrušiť";
+"Set Time" = "Nastaviť čas";
+"Set Reminder Time" = "Nastaviť čas pripomienky";

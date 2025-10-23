@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Okamžiky";
+
+// Language Selection
+"Choose your language" = "Vyberte svůj jazyk";
+"Your device language:" = "Jazyk vašeho zařízení:";
+"Select Language" = "Vybrat jazyk";
+"Continue" = "Pokračovat";
+"Language" = "Jazyk";
+"Done" = "Hotovo";
+
+// Tab Bar
+"Today" = "Dnes";
+"Catalog" = "Katalog";
+"Add" = "Přidat";
+"Statistics" = "Statistiky";
+"Profile" = "Profil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Denní cíl: ✅ Splněno";
+"Daily Goal: Add 1 moment" = "Denní cíl: Přidat 1 okamžik";
+"No moments today yet" = "Dnes zatím žádné okamžiky";
+"Tap the + button to add your first moment of the day!" = "Klepněte na tlačítko + a přidejte svůj první okamžik dne!";
+"Daily Goal Achieved!" = "Denní cíl splněn!";
+"Great job! Keep it up! 💪" = "Skvělá práce! Pokračujte! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Každý okamžik se počítá";
+"Find joy in the little things" = "Najděte radost v malých věcech";
+"Appreciate the present" = "Oceňte přítomnost";
+"Small moments make big memories" = "Malé okamžiky vytvářejí velké vzpomínky";
+"Happiness is in the details" = "Štěstí je v detailech";
+"Live in the moment" = "Žijte v přítomnosti";
+"Cherish every second" = "Vážte si každé sekundy";
+"Find beauty in simplicity" = "Najděte krásu v jednoduchosti";
+"Moments create memories" = "Okamžiky vytvářejí vzpomínky";
+"Be present, be happy" = "Buďte přítomní, buďte šťastní";
+
+// Add Moment View
+"What made you smile today?" = "Co vás dnes rozesmálo?";
+"Enter your moment..." = "Zadejte svůj okamžik...";
+"Enter up to 25 characters" = "Zadejte až 25 znaků";
+"Choose an emoji" = "Vyberte emoji";
+"Recently used" = "Nedávno použité";
+"Popular" = "Oblíbené";
+"Save Moment" = "Uložit okamžik";
+"Moment saved!" = "Okamžik uložen!";
+
+// Catalog View
+"Search moments..." = "Hledat okamžiky...";
+"No moments yet" = "Zatím žádné okamžiky";
+"Add your first moment to see it here!" = "Přidejte svůj první okamžik a uvidíte ho zde!";
+"No moments found" = "Nenalezeny žádné okamžiky";
+"Try searching with different keywords" = "Zkuste hledat s jinými klíčovými slovy";
+
+// Statistics View
+"Your Moments" = "Vaše okamžiky";
+"Statistics" = "Statistiky";
+"Top 5 Moments" = "Top 5 okamžiků";
+"times" = "krát";
+"Activity" = "Aktivita";
+"No activity yet" = "Zatím žádná aktivita";
+"Time Distribution" = "Časové rozložení";
+"Morning" = "Ráno";
+"Afternoon" = "Odpoledne";
+"Evening" = "Večer";
+"Night" = "Noc";
+"Summary" = "Shrnutí";
+"Total Moments" = "Celkový počet okamžiků";
+"Current Streak" = "Aktuální série";
+"Loading statistics..." = "Načítání statistik...";
+"Moments" = "Okamžiky";
+
+// Profile View
+"Moments User" = "Uživatel Okamžiků";
+"Edit name" = "Upravit jméno";
+"Daily Goal" = "Denní cíl";
+"Set a goal to add at least 1 moment per day" = "Nastavte si cíl přidat alespoň 1 okamžik denně";
+"Notifications" = "Oznámení";
+"Get reminded to add moments" = "Nechte si připomenout přidávání okamžiků";
+"Reminder Time" = "Čas připomínky";
+"Not set" = "Nenastaveno";
+"About Moments" = "O aplikaci Okamžiky";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Okamžiky vám pomáhají všímat si a oceňovat malé věci, které dělají život krásným. Každý okamžik se počítá, ať je jakkoliv malý.";
+"Thank you for using Moments!" = "Děkujeme za používání Okamžiků!";
+"Export Data" = "Exportovat data";
+"Clear All Data" = "Vymazat všechna data";
+"Delete" = "Smazat";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Opravdu chcete smazat všechny okamžiky a obnovit nastavení? Tuto akci nelze vrátit zpět.";
+"Enter your name" = "Zadejte své jméno";
+"Save" = "Uložit";
+"Edit Name" = "Upravit jméno";
+"Cancel" = "Zrušit";
+"Set Time" = "Nastavit čas";
+"Set Reminder Time" = "Nastavit čas připomínky";

@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Ögonblick";
+
+// Language Selection
+"Choose your language" = "Välj ditt språk";
+"Your device language:" = "Ditt enhetsspråk:";
+"Select Language" = "Välj språk";
+"Continue" = "Fortsätt";
+"Language" = "Språk";
+"Done" = "Klar";
+
+// Tab Bar
+"Today" = "Idag";
+"Catalog" = "Katalog";
+"Add" = "Lägg till";
+"Statistics" = "Statistik";
+"Profile" = "Profil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Dagligt mål: ✅ Slutfört";
+"Daily Goal: Add 1 moment" = "Dagligt mål: Lägg till 1 ögonblick";
+"No moments today yet" = "Inga ögonblick idag än";
+"Tap the + button to add your first moment of the day!" = "Tryck på +-knappen för att lägga till ditt första ögonblick för dagen!";
+"Daily Goal Achieved!" = "Dagligt mål uppnått!";
+"Great job! Keep it up! 💪" = "Bra jobbat! Fortsätt så! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Varje ögonblick räknas";
+"Find joy in the little things" = "Hitta glädje i de små sakerna";
+"Appreciate the present" = "Uppskatta nuet";
+"Small moments make big memories" = "Små ögonblick skapar stora minnen";
+"Happiness is in the details" = "Lyckan finns i detaljerna";
+"Live in the moment" = "Lev i nuet";
+"Cherish every second" = "Vårda varje sekund";
+"Find beauty in simplicity" = "Hitta skönhet i enkelhet";
+"Moments create memories" = "Ögonblick skapar minnen";
+"Be present, be happy" = "Var närvarande, var lycklig";
+
+// Add Moment View
+"What made you smile today?" = "Vad fick dig att le idag?";
+"Enter your moment..." = "Ange ditt ögonblick...";
+"Enter up to 25 characters" = "Ange upp till 25 tecken";
+"Choose an emoji" = "Välj en emoji";
+"Recently used" = "Nyligen använda";
+"Popular" = "Populära";
+"Save Moment" = "Spara ögonblick";
+"Moment saved!" = "Ögonblick sparat!";
+
+// Catalog View
+"Search moments..." = "Sök ögonblick...";
+"No moments yet" = "Inga ögonblick än";
+"Add your first moment to see it here!" = "Lägg till ditt första ögonblick för att se det här!";
+"No moments found" = "Inga ögonblick hittades";
+"Try searching with different keywords" = "Försök söka med andra nyckelord";
+
+// Statistics View
+"Your Moments" = "Dina ögonblick";
+"Statistics" = "Statistik";
+"Top 5 Moments" = "Topp 5 ögonblick";
+"times" = "gånger";
+"Activity" = "Aktivitet";
+"No activity yet" = "Ingen aktivitet än";
+"Time Distribution" = "Tidsfördelning";
+"Morning" = "Morgon";
+"Afternoon" = "Eftermiddag";
+"Evening" = "Kväll";
+"Night" = "Natt";
+"Summary" = "Sammanfattning";
+"Total Moments" = "Totala ögonblick";
+"Current Streak" = "Nuvarande serie";
+"Loading statistics..." = "Laddar statistik...";
+"Moments" = "Ögonblick";
+
+// Profile View
+"Moments User" = "Ögonblick-användare";
+"Edit name" = "Redigera namn";
+"Daily Goal" = "Dagligt mål";
+"Set a goal to add at least 1 moment per day" = "Sätt ett mål att lägga till minst 1 ögonblick per dag";
+"Notifications" = "Notiser";
+"Get reminded to add moments" = "Få påminnelser om att lägga till ögonblick";
+"Reminder Time" = "Påminnelsetid";
+"Not set" = "Inte inställd";
+"About Moments" = "Om Ögonblick";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Ögonblick hjälper dig att märka och uppskatta de små sakerna som gör livet vackert. Varje ögonblick räknas, oavsett hur litet det är.";
+"Thank you for using Moments!" = "Tack för att du använder Ögonblick!";
+"Export Data" = "Exportera data";
+"Clear All Data" = "Rensa all data";
+"Delete" = "Radera";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Är du säker på att du vill radera alla ögonblick och återställa inställningarna? Denna åtgärd kan inte ångras.";
+"Enter your name" = "Ange ditt namn";
+"Save" = "Spara";
+"Edit Name" = "Redigera namn";
+"Cancel" = "Avbryt";
+"Set Time" = "Ställ in tid";
+"Set Reminder Time" = "Ställ in påminnelsetid";

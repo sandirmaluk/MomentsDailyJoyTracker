@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Moments
+  Romanian
+*/
+
+// App Title
+"Moments" = "Momente";
+
+// Language Selection
+"Choose your language" = "Alege limba ta";
+"Your device language:" = "Limba dispozitivului tău:";
+"Select Language" = "Selectează limba";
+"Continue" = "Continuă";
+"Language" = "Limbă";
+"Done" = "Gata";
+
+// Tab Bar
+"Today" = "Astăzi";
+"Catalog" = "Catalog";
+"Add" = "Adaugă";
+"Statistics" = "Statistici";
+"Profile" = "Profil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Obiectiv zilnic: ✅ Completat";
+"Daily Goal: Add 1 moment" = "Obiectiv zilnic: Adaugă 1 moment";
+"No moments today yet" = "Încă nu sunt momente astăzi";
+"Tap the + button to add your first moment of the day!" = "Apasă butonul + pentru a adăuga primul moment al zilei!";
+"Daily Goal Achieved!" = "Obiectiv zilnic atins!";
+"Great job! Keep it up! 💪" = "Treabă bună! Continuă așa! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Fiecare moment contează";
+"Find joy in the little things" = "Găsește bucurie în lucrurile mici";
+"Appreciate the present" = "Apreciază prezentul";
+"Small moments make big memories" = "Momentele mici creează amintiri mari";
+"Happiness is in the details" = "Fericirea este în detalii";
+"Live in the moment" = "Trăiește clipa";
+"Cherish every second" = "Prețuiește fiecare secundă";
+"Find beauty in simplicity" = "Găsește frumusețe în simplitate";
+"Moments create memories" = "Momentele creează amintiri";
+"Be present, be happy" = "Fii prezent, fii fericit";
+
+// Add Moment View
+"What made you smile today?" = "Ce te-a făcut să zâmbești astăzi?";
+"Enter your moment..." = "Introdu momentul tău...";
+"Enter up to 25 characters" = "Introdu până la 25 de caractere";
+"Choose an emoji" = "Alege un emoji";
+"Recently used" = "Folosite recent";
+"Popular" = "Populare";
+"Save Moment" = "Salvează moment";
+"Moment saved!" = "Moment salvat!";
+
+// Catalog View
+"Search moments..." = "Caută momente...";
+"No moments yet" = "Încă nu sunt momente";
+"Add your first moment to see it here!" = "Adaugă primul tău moment pentru a-l vedea aici!";
+"No moments found" = "Nu s-au găsit momente";
+"Try searching with different keywords" = "Încearcă să cauți cu cuvinte cheie diferite";
+
+// Statistics View
+"Your Moments" = "Momentele tale";
+"Statistics" = "Statistici";
+"Top 5 Moments" = "Top 5 momente";
+"times" = "ori";
+"Activity" = "Activitate";
+"No activity yet" = "Încă nu există activitate";
+"Time Distribution" = "Distribuție timp";
+"Morning" = "Dimineață";
+"Afternoon" = "După-amiază";
+"Evening" = "Seară";
+"Night" = "Noapte";
+"Summary" = "Rezumat";
+"Total Moments" = "Total momente";
+"Current Streak" = "Serie curentă";
+"Loading statistics..." = "Se încarcă statisticile...";
+"Moments" = "Momente";
+
+// Profile View
+"Moments User" = "Utilizator Momente";
+"Edit name" = "Editează nume";
+"Daily Goal" = "Obiectiv zilnic";
+"Set a goal to add at least 1 moment per day" = "Stabilește un obiectiv de a adăuga cel puțin 1 moment pe zi";
+"Notifications" = "Notificări";
+"Get reminded to add moments" = "Primește mementouri pentru a adăuga momente";
+"Reminder Time" = "Ora mementoului";
+"Not set" = "Nesetat";
+"About Moments" = "Despre Momente";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Momente te ajută să observi și să apreciezi lucrurile mici care fac viața frumoasă. Fiecare moment contează, indiferent cât de mic.";
+"Thank you for using Moments!" = "Mulțumim că folosești Momente!";
+"Export Data" = "Exportă date";
+"Clear All Data" = "Șterge toate datele";
+"Delete" = "Șterge";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Sigur vrei să ștergi toate momentele și să resetezi setările? Această acțiune nu poate fi anulată.";
+"Enter your name" = "Introdu numele tău";
+"Save" = "Salvează";
+"Edit Name" = "Editează nume";
+"Cancel" = "Anulează";
+"Set Time" = "Setează ora";
+"Set Reminder Time" = "Setează ora mementoului";

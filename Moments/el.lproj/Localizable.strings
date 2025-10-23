@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Στιγμές";
+
+// Language Selection
+"Choose your language" = "Επιλέξτε τη γλώσσα σας";
+"Your device language:" = "Γλώσσα της συσκευής σας:";
+"Select Language" = "Επιλογή γλώσσας";
+"Continue" = "Συνέχεια";
+"Language" = "Γλώσσα";
+"Done" = "Τέλος";
+
+// Tab Bar
+"Today" = "Σήμερα";
+"Catalog" = "Κατάλογος";
+"Add" = "Προσθήκη";
+"Statistics" = "Στατιστικά";
+"Profile" = "Προφίλ";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Ημερήσιος στόχος: ✅ Ολοκληρώθηκε";
+"Daily Goal: Add 1 moment" = "Ημερήσιος στόχος: Προσθέστε 1 στιγμή";
+"No moments today yet" = "Δεν υπάρχουν στιγμές σήμερα ακόμα";
+"Tap the + button to add your first moment of the day!" = "Πατήστε το κουμπί + για να προσθέσετε την πρώτη σας στιγμή της ημέρας!";
+"Daily Goal Achieved!" = "Ημερήσιος στόχος επιτεύχθηκε!";
+"Great job! Keep it up! 💪" = "Εξαιρετική δουλειά! Συνέχισε έτσι! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Κάθε στιγμή μετράει";
+"Find joy in the little things" = "Βρείτε χαρά στα μικρά πράγματα";
+"Appreciate the present" = "Εκτιμήστε το παρόν";
+"Small moments make big memories" = "Οι μικρές στιγμές δημιουργούν μεγάλες αναμνήσεις";
+"Happiness is in the details" = "Η ευτυχία βρίσκεται στις λεπτομέρειες";
+"Live in the moment" = "Ζήστε τη στιγμή";
+"Cherish every second" = "Εκτιμήστε κάθε δευτερόλεπτο";
+"Find beauty in simplicity" = "Βρείτε ομορφιά στην απλότητα";
+"Moments create memories" = "Οι στιγμές δημιουργούν αναμνήσεις";
+"Be present, be happy" = "Να είστε παρόντες, να είστε ευτυχισμένοι";
+
+// Add Moment View
+"What made you smile today?" = "Τι σας έκανε να χαμογελάσετε σήμερα;";
+"Enter your moment..." = "Εισάγετε τη στιγμή σας...";
+"Enter up to 25 characters" = "Εισάγετε έως 25 χαρακτήρες";
+"Choose an emoji" = "Επιλέξτε ένα emoji";
+"Recently used" = "Πρόσφατα χρησιμοποιημένα";
+"Popular" = "Δημοφιλή";
+"Save Moment" = "Αποθήκευση στιγμής";
+"Moment saved!" = "Η στιγμή αποθηκεύτηκε!";
+
+// Catalog View
+"Search moments..." = "Αναζήτηση στιγμών...";
+"No moments yet" = "Δεν υπάρχουν στιγμές ακόμα";
+"Add your first moment to see it here!" = "Προσθέστε την πρώτη σας στιγμή για να τη δείτε εδώ!";
+"No moments found" = "Δεν βρέθηκαν στιγμές";
+"Try searching with different keywords" = "Δοκιμάστε να αναζητήσετε με διαφορετικές λέξεις-κλειδιά";
+
+// Statistics View
+"Your Moments" = "Οι στιγμές σας";
+"Statistics" = "Στατιστικά";
+"Top 5 Moments" = "Κορυφαίες 5 στιγμές";
+"times" = "φορές";
+"Activity" = "Δραστηριότητα";
+"No activity yet" = "Δεν υπάρχει δραστηριότητα ακόμα";
+"Time Distribution" = "Κατανομή χρόνου";
+"Morning" = "Πρωί";
+"Afternoon" = "Απόγευμα";
+"Evening" = "Βράδυ";
+"Night" = "Νύχτα";
+"Summary" = "Σύνοψη";
+"Total Moments" = "Σύνολο στιγμών";
+"Current Streak" = "Τρέχουσα σειρά";
+"Loading statistics..." = "Φόρτωση στατιστικών...";
+"Moments" = "Στιγμές";
+
+// Profile View
+"Moments User" = "Χρήστης Στιγμών";
+"Edit name" = "Επεξεργασία ονόματος";
+"Daily Goal" = "Ημερήσιος στόχος";
+"Set a goal to add at least 1 moment per day" = "Ορίστε στόχο να προσθέτετε τουλάχιστον 1 στιγμή την ημέρα";
+"Notifications" = "Ειδοποιήσεις";
+"Get reminded to add moments" = "Λάβετε υπενθυμίσεις για να προσθέσετε στιγμές";
+"Reminder Time" = "Ώρα υπενθύμισης";
+"Not set" = "Δεν έχει οριστεί";
+"About Moments" = "Σχετικά με τις Στιγμές";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Οι Στιγμές σας βοηθούν να παρατηρήσετε και να εκτιμήσετε τα μικρά πράγματα που κάνουν τη ζωή όμορφη. Κάθε στιγμή μετράει, ανεξάρτητα από το πόσο μικρή είναι.";
+"Thank you for using Moments!" = "Ευχαριστούμε που χρησιμοποιείτε τις Στιγμές!";
+"Export Data" = "Εξαγωγή δεδομένων";
+"Clear All Data" = "Εκκαθάριση όλων των δεδομένων";
+"Delete" = "Διαγραφή";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Είστε βέβαιοι ότι θέλετε να διαγράψετε όλες τις στιγμές και να επαναφέρετε τις ρυθμίσεις; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.";
+"Enter your name" = "Εισάγετε το όνομά σας";
+"Save" = "Αποθήκευση";
+"Edit Name" = "Επεξεργασία ονόματος";
+"Cancel" = "Ακύρωση";
+"Set Time" = "Ορισμός ώρας";
+"Set Reminder Time" = "Ορισμός ώρας υπενθύμισης";

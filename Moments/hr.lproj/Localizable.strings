@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Trenuci";
+
+// Language Selection
+"Choose your language" = "Odaberite svoj jezik";
+"Your device language:" = "Jezik vašeg uređaja:";
+"Select Language" = "Odaberi jezik";
+"Continue" = "Nastavi";
+"Language" = "Jezik";
+"Done" = "Gotovo";
+
+// Tab Bar
+"Today" = "Danas";
+"Catalog" = "Katalog";
+"Add" = "Dodaj";
+"Statistics" = "Statistika";
+"Profile" = "Profil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Dnevni cilj: ✅ Završeno";
+"Daily Goal: Add 1 moment" = "Dnevni cilj: Dodaj 1 trenutak";
+"No moments today yet" = "Još nema trenutaka danas";
+"Tap the + button to add your first moment of the day!" = "Dodirnite + gumb da dodate svoj prvi trenutak dana!";
+"Daily Goal Achieved!" = "Dnevni cilj postignut!";
+"Great job! Keep it up! 💪" = "Odličan posao! Nastavi tako! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Svaki trenutak je važan";
+"Find joy in the little things" = "Pronađite radost u malim stvarima";
+"Appreciate the present" = "Cijenite sadašnjost";
+"Small moments make big memories" = "Mali trenuci stvaraju velika sjećanja";
+"Happiness is in the details" = "Sreća je u detaljima";
+"Live in the moment" = "Živite u trenutku";
+"Cherish every second" = "Cijenite svaku sekundu";
+"Find beauty in simplicity" = "Pronađite ljepotu u jednostavnosti";
+"Moments create memories" = "Trenuci stvaraju uspomene";
+"Be present, be happy" = "Budite prisutni, budite sretni";
+
+// Add Moment View
+"What made you smile today?" = "Što vas je danas nasmijalo?";
+"Enter your moment..." = "Unesite svoj trenutak...";
+"Enter up to 25 characters" = "Unesite do 25 znakova";
+"Choose an emoji" = "Odaberite emoji";
+"Recently used" = "Nedavno korišteno";
+"Popular" = "Popularno";
+"Save Moment" = "Spremi trenutak";
+"Moment saved!" = "Trenutak spremljen!";
+
+// Catalog View
+"Search moments..." = "Pretraži trenutke...";
+"No moments yet" = "Još nema trenutaka";
+"Add your first moment to see it here!" = "Dodajte svoj prvi trenutak da ga vidite ovdje!";
+"No moments found" = "Nema pronađenih trenutaka";
+"Try searching with different keywords" = "Pokušajte pretraživati s različitim ključnim riječima";
+
+// Statistics View
+"Your Moments" = "Vaši trenuci";
+"Statistics" = "Statistika";
+"Top 5 Moments" = "Top 5 trenutaka";
+"times" = "puta";
+"Activity" = "Aktivnost";
+"No activity yet" = "Još nema aktivnosti";
+"Time Distribution" = "Vremenska raspodjela";
+"Morning" = "Jutro";
+"Afternoon" = "Popodne";
+"Evening" = "Večer";
+"Night" = "Noć";
+"Summary" = "Sažetak";
+"Total Moments" = "Ukupno trenutaka";
+"Current Streak" = "Trenutni niz";
+"Loading statistics..." = "Učitavanje statistike...";
+"Moments" = "Trenuci";
+
+// Profile View
+"Moments User" = "Korisnik Trenuci";
+"Edit name" = "Uredi ime";
+"Daily Goal" = "Dnevni cilj";
+"Set a goal to add at least 1 moment per day" = "Postavite cilj dodavanja najmanje 1 trenutka dnevno";
+"Notifications" = "Obavijesti";
+"Get reminded to add moments" = "Primajte podsjetnike za dodavanje trenutaka";
+"Reminder Time" = "Vrijeme podsjetnika";
+"Not set" = "Nije postavljeno";
+"About Moments" = "O aplikaciji Trenuci";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Trenuci vam pomažu primijetiti i cijeniti male stvari koje čine život lijepim. Svaki trenutak je važan, bez obzira koliko je malen.";
+"Thank you for using Moments!" = "Hvala što koristite Trenuci!";
+"Export Data" = "Izvezi podatke";
+"Clear All Data" = "Izbriši sve podatke";
+"Delete" = "Izbriši";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Jeste li sigurni da želite izbrisati sve trenutke i resetirati postavke? Ova radnja se ne može poništiti.";
+"Enter your name" = "Unesite svoje ime";
+"Save" = "Spremi";
+"Edit Name" = "Uredi ime";
+"Cancel" = "Odustani";
+"Set Time" = "Postavi vrijeme";
+"Set Reminder Time" = "Postavi vrijeme podsjetnika";

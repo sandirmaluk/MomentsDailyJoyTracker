@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Momentos";
+
+// Language Selection
+"Choose your language" = "Escolha seu idioma";
+"Your device language:" = "Idioma do seu dispositivo:";
+"Select Language" = "Selecionar idioma";
+"Continue" = "Continuar";
+"Language" = "Idioma";
+"Done" = "Concluído";
+
+// Tab Bar
+"Today" = "Hoje";
+"Catalog" = "Catálogo";
+"Add" = "Adicionar";
+"Statistics" = "Estatísticas";
+"Profile" = "Perfil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Meta diária: ✅ Concluída";
+"Daily Goal: Add 1 moment" = "Meta diária: Adicionar 1 momento";
+"No moments today yet" = "Ainda não há momentos hoje";
+"Tap the + button to add your first moment of the day!" = "Toque no botão + para adicionar seu primeiro momento do dia!";
+"Daily Goal Achieved!" = "Meta diária alcançada!";
+"Great job! Keep it up! 💪" = "Ótimo trabalho! Continue assim! 💪";
+
+// Add Moment View
+"What made you smile today?" = "O que te fez sorrir hoje?";
+"Enter your moment..." = "Digite seu momento...";
+"Enter up to 25 characters" = "Digite até 25 caracteres";
+"Choose an emoji" = "Escolha um emoji";
+"Recently used" = "Usados recentemente";
+"Popular" = "Populares";
+"Save Moment" = "Salvar momento";
+"Moment saved!" = "Momento salvo!";
+
+// Catalog View
+"Search moments..." = "Pesquisar momentos...";
+"No moments yet" = "Ainda não há momentos";
+"Add your first moment to see it here!" = "Adicione seu primeiro momento para vê-lo aqui!";
+"No moments found" = "Nenhum momento encontrado";
+"Try searching with different keywords" = "Tente pesquisar com palavras-chave diferentes";
+
+// Statistics View
+"Your Moments" = "Seus momentos";
+"Statistics" = "Estatísticas";
+"Top 5 Moments" = "Top 5 momentos";
+"times" = "vezes";
+"Activity" = "Atividade";
+"No activity yet" = "Ainda não há atividade";
+"Time Distribution" = "Distribuição de tempo";
+"Morning" = "Manhã";
+"Afternoon" = "Tarde";
+"Evening" = "Noite";
+"Night" = "Madrugada";
+"Summary" = "Resumo";
+"Total Moments" = "Total de momentos";
+"Current Streak" = "Sequência atual";
+"Loading statistics..." = "Carregando estatísticas...";
+"Moments" = "Momentos";
+
+// Profile View
+"Moments User" = "Usuário Momentos";
+"Edit name" = "Editar nome";
+"Daily Goal" = "Meta diária";
+"Set a goal to add at least 1 moment per day" = "Defina uma meta de adicionar pelo menos 1 momento por dia";
+"Notifications" = "Notificações";
+"Get reminded to add moments" = "Receba lembretes para adicionar momentos";
+"Reminder Time" = "Horário do lembrete";
+"Not set" = "Não definido";
+"About Moments" = "Sobre Momentos";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Momentos ajuda você a notar e apreciar as pequenas coisas que tornam a vida bonita. Cada momento conta, não importa quão pequeno.";
+"Thank you for using Moments!" = "Obrigado por usar Momentos!";
+"Export Data" = "Exportar dados";
+"Clear All Data" = "Limpar todos os dados";
+"Delete" = "Excluir";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Tem certeza de que deseja excluir todos os momentos e redefinir as configurações? Esta ação não pode ser desfeita.";
+"Enter your name" = "Digite seu nome";
+"Save" = "Salvar";
+"Edit Name" = "Editar nome";
+"Cancel" = "Cancelar";
+"Set Time" = "Definir horário";
+"Set Reminder Time" = "Definir horário do lembrete";
+// Inspirational Quotes
+"Every moment matters" = "Cada momento importa";
+"Find joy in the little things" = "Encontre alegria nas pequenas coisas";
+"Appreciate the present" = "Aprecie o presente";
+"Small moments make big memories" = "Pequenos momentos criam grandes memórias";
+"Happiness is in the details" = "A felicidade está nos detalhes";
+"Live in the moment" = "Viva o momento";
+"Cherish every second" = "Aprecie cada segundo";
+"Find beauty in simplicity" = "Encontre beleza na simplicidade";
+"Moments create memories" = "Momentos criam memórias";
+"Be present, be happy" = "Esteja presente, seja feliz";

@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Momente";
+
+// Language Selection
+"Choose your language" = "Wählen Sie Ihre Sprache";
+"Your device language:" = "Ihre Gerätesprache:";
+"Select Language" = "Sprache auswählen";
+"Continue" = "Weiter";
+"Language" = "Sprache";
+"Done" = "Fertig";
+
+// Tab Bar
+"Today" = "Heute";
+"Catalog" = "Katalog";
+"Add" = "Hinzufügen";
+"Statistics" = "Statistiken";
+"Profile" = "Profil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Tagesziel: ✅ Abgeschlossen";
+"Daily Goal: Add 1 moment" = "Tagesziel: 1 Moment hinzufügen";
+"No moments today yet" = "Heute noch keine Momente";
+"Tap the + button to add your first moment of the day!" = "Tippen Sie auf die +-Taste, um Ihren ersten Moment des Tages hinzuzufügen!";
+"Daily Goal Achieved!" = "Tagesziel erreicht!";
+"Great job! Keep it up! 💪" = "Großartige Arbeit! Weiter so! 💪";
+
+// Add Moment View
+"What made you smile today?" = "Was hat Sie heute zum Lächeln gebracht?";
+"Enter your moment..." = "Geben Sie Ihren Moment ein...";
+"Enter up to 25 characters" = "Geben Sie bis zu 25 Zeichen ein";
+"Choose an emoji" = "Wählen Sie ein Emoji";
+"Recently used" = "Kürzlich verwendet";
+"Popular" = "Beliebt";
+"Save Moment" = "Moment speichern";
+"Moment saved!" = "Moment gespeichert!";
+
+// Catalog View
+"Search moments..." = "Momente suchen...";
+"No moments yet" = "Noch keine Momente";
+"Add your first moment to see it here!" = "Fügen Sie Ihren ersten Moment hinzu, um ihn hier zu sehen!";
+"No moments found" = "Keine Momente gefunden";
+"Try searching with different keywords" = "Versuchen Sie die Suche mit anderen Stichwörtern";
+
+// Statistics View
+"Your Moments" = "Ihre Momente";
+"Statistics" = "Statistiken";
+"Top 5 Moments" = "Top 5 Momente";
+"times" = "Mal";
+"Activity" = "Aktivität";
+"No activity yet" = "Noch keine Aktivität";
+"Time Distribution" = "Zeitverteilung";
+"Morning" = "Morgen";
+"Afternoon" = "Nachmittag";
+"Evening" = "Abend";
+"Night" = "Nacht";
+"Summary" = "Zusammenfassung";
+"Total Moments" = "Gesamte Momente";
+"Current Streak" = "Aktuelle Serie";
+"Loading statistics..." = "Statistiken werden geladen...";
+"Moments" = "Momente";
+
+// Profile View
+"Moments User" = "Momente Benutzer";
+"Edit name" = "Namen bearbeiten";
+"Daily Goal" = "Tagesziel";
+"Set a goal to add at least 1 moment per day" = "Setzen Sie sich das Ziel, mindestens 1 Moment pro Tag hinzuzufügen";
+"Notifications" = "Benachrichtigungen";
+"Get reminded to add moments" = "Erhalten Sie Erinnerungen zum Hinzufügen von Momenten";
+"Reminder Time" = "Erinnerungszeit";
+"Not set" = "Nicht festgelegt";
+"About Moments" = "Über Momente";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Momente hilft Ihnen, die kleinen Dinge zu bemerken und zu schätzen, die das Leben schön machen. Jeder Moment zählt, egal wie klein.";
+"Thank you for using Moments!" = "Vielen Dank, dass Sie Momente verwenden!";
+"Export Data" = "Daten exportieren";
+"Clear All Data" = "Alle Daten löschen";
+"Delete" = "Löschen";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Möchten Sie wirklich alle Momente löschen und die Einstellungen zurücksetzen? Diese Aktion kann nicht rückgängig gemacht werden.";
+"Enter your name" = "Geben Sie Ihren Namen ein";
+"Save" = "Speichern";
+"Edit Name" = "Namen bearbeiten";
+"Cancel" = "Abbrechen";
+"Set Time" = "Zeit festlegen";
+"Set Reminder Time" = "Erinnerungszeit festlegen";
+// Inspirational Quotes
+"Every moment matters" = "Jeder Moment zählt";
+"Find joy in the little things" = "Finden Sie Freude in den kleinen Dingen";
+"Appreciate the present" = "Schätzen Sie die Gegenwart";
+"Small moments make big memories" = "Kleine Momente schaffen große Erinnerungen";
+"Happiness is in the details" = "Das Glück liegt im Detail";
+"Live in the moment" = "Leben Sie im Moment";
+"Cherish every second" = "Schätzen Sie jede Sekunde";
+"Find beauty in simplicity" = "Finden Sie Schönheit in der Einfachheit";
+"Moments create memories" = "Momente schaffen Erinnerungen";
+"Be present, be happy" = "Sei präsent, sei glücklich";

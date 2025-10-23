@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "모멘트";
+
+// Language Selection
+"Choose your language" = "언어 선택";
+"Your device language:" = "기기 언어:";
+"Select Language" = "언어 선택";
+"Continue" = "계속";
+"Language" = "언어";
+"Done" = "완료";
+
+// Tab Bar
+"Today" = "오늘";
+"Catalog" = "카탈로그";
+"Add" = "추가";
+"Statistics" = "통계";
+"Profile" = "프로필";
+
+// Today View
+"Daily Goal: ✅ Completed" = "일일 목표: ✅ 완료";
+"Daily Goal: Add 1 moment" = "일일 목표: 모멘트 1개 추가";
+"No moments today yet" = "오늘은 아직 모멘트가 없습니다";
+"Tap the + button to add your first moment of the day!" = "+ 버튼을 눌러 오늘의 첫 모멘트를 추가하세요!";
+"Daily Goal Achieved!" = "일일 목표 달성!";
+"Great job! Keep it up! 💪" = "잘했어요! 계속 유지하세요! 💪";
+
+// Add Moment View
+"What made you smile today?" = "오늘 무엇이 당신을 미소 짓게 했나요?";
+"Enter your moment..." = "모멘트를 입력하세요...";
+"Enter up to 25 characters" = "최대 25자까지 입력";
+"Choose an emoji" = "이모지 선택";
+"Recently used" = "최근 사용";
+"Popular" = "인기";
+"Save Moment" = "모멘트 저장";
+"Moment saved!" = "모멘트가 저장되었습니다!";
+
+// Catalog View
+"Search moments..." = "모멘트 검색...";
+"No moments yet" = "아직 모멘트가 없습니다";
+"Add your first moment to see it here!" = "첫 모멘트를 추가하여 여기에서 확인하세요!";
+"No moments found" = "모멘트를 찾을 수 없습니다";
+"Try searching with different keywords" = "다른 키워드로 검색해 보세요";
+
+// Statistics View
+"Your Moments" = "내 모멘트";
+"Statistics" = "통계";
+"Top 5 Moments" = "상위 5개 모멘트";
+"times" = "회";
+"Activity" = "활동";
+"No activity yet" = "아직 활동이 없습니다";
+"Time Distribution" = "시간 분포";
+"Morning" = "아침";
+"Afternoon" = "오후";
+"Evening" = "저녁";
+"Night" = "밤";
+"Summary" = "요약";
+"Total Moments" = "전체 모멘트";
+"Current Streak" = "현재 연속 기록";
+"Loading statistics..." = "통계를 불러오는 중...";
+"Moments" = "모멘트";
+
+// Profile View
+"Moments User" = "모멘트 사용자";
+"Edit name" = "이름 편집";
+"Daily Goal" = "일일 목표";
+"Set a goal to add at least 1 moment per day" = "하루에 최소 1개의 모멘트를 추가하는 목표 설정";
+"Notifications" = "알림";
+"Get reminded to add moments" = "모멘트 추가 알림 받기";
+"Reminder Time" = "알림 시간";
+"Not set" = "설정 안 됨";
+"About Moments" = "모멘트 정보";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "모멘트는 삶을 아름답게 만드는 작은 것들을 알아차리고 감사하는 데 도움을 줍니다. 아무리 작아도 모든 순간이 소중합니다.";
+"Thank you for using Moments!" = "모멘트를 사용해 주셔서 감사합니다!";
+"Export Data" = "데이터 내보내기";
+"Clear All Data" = "모든 데이터 지우기";
+"Delete" = "삭제";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "모든 모멘트를 삭제하고 설정을 재설정하시겠습니까? 이 작업은 취소할 수 없습니다.";
+"Enter your name" = "이름을 입력하세요";
+"Save" = "저장";
+"Edit Name" = "이름 편집";
+"Cancel" = "취소";
+"Set Time" = "시간 설정";
+"Set Reminder Time" = "알림 시간 설정";
+// Inspirational Quotes
+"Every moment matters" = "모든 순간이 중요합니다";
+"Find joy in the little things" = "작은 것에서 기쁨을 찾으세요";
+"Appreciate the present" = "현재를 감사하세요";
+"Small moments make big memories" = "작은 순간이 큰 추억을 만듭니다";
+"Happiness is in the details" = "행복은 세부 사항에 있습니다";
+"Live in the moment" = "순간을 살아가세요";
+"Cherish every second" = "매 초를 소중히 여기세요";
+"Find beauty in simplicity" = "단순함에서 아름다움을 찾으세요";
+"Moments create memories" = "순간이 추억을 만듭니다";
+"Be present, be happy" = "현재에 머물고 행복하세요";

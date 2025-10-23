@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Anlar";
+
+// Language Selection
+"Choose your language" = "Dilinizi seçin";
+"Your device language:" = "Cihaz diliniz:";
+"Select Language" = "Dil seç";
+"Continue" = "Devam et";
+"Language" = "Dil";
+"Done" = "Tamam";
+
+// Tab Bar
+"Today" = "Bugün";
+"Catalog" = "Katalog";
+"Add" = "Ekle";
+"Statistics" = "İstatistikler";
+"Profile" = "Profil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Günlük Hedef: ✅ Tamamlandı";
+"Daily Goal: Add 1 moment" = "Günlük Hedef: 1 an ekle";
+"No moments today yet" = "Bugün henüz an yok";
+"Tap the + button to add your first moment of the day!" = "Günün ilk anını eklemek için + düğmesine dokunun!";
+"Daily Goal Achieved!" = "Günlük Hedef Başarıldı!";
+"Great job! Keep it up! 💪" = "Harika iş! Böyle devam et! 💪";
+
+// Add Moment View
+"What made you smile today?" = "Bugün sizi ne güldürdü?";
+"Enter your moment..." = "Anınızı girin...";
+"Enter up to 25 characters" = "25 karaktere kadar girin";
+"Choose an emoji" = "Bir emoji seçin";
+"Recently used" = "Son kullanılanlar";
+"Popular" = "Popüler";
+"Save Moment" = "Anı kaydet";
+"Moment saved!" = "An kaydedildi!";
+
+// Catalog View
+"Search moments..." = "Anları ara...";
+"No moments yet" = "Henüz an yok";
+"Add your first moment to see it here!" = "Burada görmek için ilk anınızı ekleyin!";
+"No moments found" = "An bulunamadı";
+"Try searching with different keywords" = "Farklı anahtar kelimelerle aramayı deneyin";
+
+// Statistics View
+"Your Moments" = "Anlarınız";
+"Statistics" = "İstatistikler";
+"Top 5 Moments" = "İlk 5 An";
+"times" = "kez";
+"Activity" = "Aktivite";
+"No activity yet" = "Henüz aktivite yok";
+"Time Distribution" = "Zaman Dağılımı";
+"Morning" = "Sabah";
+"Afternoon" = "Öğleden sonra";
+"Evening" = "Akşam";
+"Night" = "Gece";
+"Summary" = "Özet";
+"Total Moments" = "Toplam Anlar";
+"Current Streak" = "Mevcut Seri";
+"Loading statistics..." = "İstatistikler yükleniyor...";
+"Moments" = "Anlar";
+
+// Profile View
+"Moments User" = "Anlar Kullanıcısı";
+"Edit name" = "Adı düzenle";
+"Daily Goal" = "Günlük Hedef";
+"Set a goal to add at least 1 moment per day" = "Günde en az 1 an ekleme hedefi belirleyin";
+"Notifications" = "Bildirimler";
+"Get reminded to add moments" = "An eklemeyi hatırlatıcılar alın";
+"Reminder Time" = "Hatırlatma Saati";
+"Not set" = "Ayarlanmadı";
+"About Moments" = "Anlar Hakkında";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Anlar, hayatı güzel yapan küçük şeyleri fark etmenize ve takdir etmenize yardımcı olur. Ne kadar küçük olursa olsun her an önemlidir.";
+"Thank you for using Moments!" = "Anlar'ı kullandığınız için teşekkürler!";
+"Export Data" = "Verileri dışa aktar";
+"Clear All Data" = "Tüm verileri temizle";
+"Delete" = "Sil";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Tüm anları silmek ve ayarları sıfırlamak istediğinizden emin misiniz? Bu işlem geri alınamaz.";
+"Enter your name" = "Adınızı girin";
+"Save" = "Kaydet";
+"Edit Name" = "Adı Düzenle";
+"Cancel" = "İptal";
+"Set Time" = "Saat ayarla";
+"Set Reminder Time" = "Hatırlatma saatini ayarla";
+// Inspirational Quotes
+"Every moment matters" = "Her an önemlidir";
+"Find joy in the little things" = "Küçük şeylerde neşe bulun";
+"Appreciate the present" = "Şimdiki anı takdir edin";
+"Small moments make big memories" = "Küçük anlar büyük anılar yaratır";
+"Happiness is in the details" = "Mutluluk detaylarda gizlidir";
+"Live in the moment" = "Anı yaşayın";
+"Cherish every second" = "Her saniyeye değer verin";
+"Find beauty in simplicity" = "Sadelikte güzellik bulun";
+"Moments create memories" = "Anlar anıları yaratır";
+"Be present, be happy" = "Şu anda olun, mutlu olun";
+

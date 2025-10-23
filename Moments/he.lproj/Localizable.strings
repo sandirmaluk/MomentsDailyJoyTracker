@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Moments
+  Hebrew
+*/
+
+// App Title
+"Moments" = "רגעים";
+
+// Language Selection
+"Choose your language" = "בחר את השפה שלך";
+"Your device language:" = "שפת המכשיר שלך:";
+"Select Language" = "בחירת שפה";
+"Continue" = "המשך";
+"Language" = "שפה";
+"Done" = "סיום";
+
+// Tab Bar
+"Today" = "היום";
+"Catalog" = "קטלוג";
+"Add" = "הוספה";
+"Statistics" = "סטטיסטיקה";
+"Profile" = "פרופיל";
+
+// Today View
+"Daily Goal: ✅ Completed" = "יעד יומי: ✅ הושלם";
+"Daily Goal: Add 1 moment" = "יעד יומי: הוסף רגע אחד";
+"No moments today yet" = "עדיין אין רגעים היום";
+"Tap the + button to add your first moment of the day!" = "לחץ על כפתור ה-+ כדי להוסיף את הרגע הראשון שלך היום!";
+"Daily Goal Achieved!" = "היעד היומי הושג!";
+"Great job! Keep it up! 💪" = "עבודה מצוינת! המשך כך! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "כל רגע חשוב";
+"Find joy in the little things" = "מצא שמחה בדברים הקטנים";
+"Appreciate the present" = "העריך את ההווה";
+"Small moments make big memories" = "רגעים קטנים יוצרים זיכרונות גדולים";
+"Happiness is in the details" = "האושר נמצא בפרטים";
+"Live in the moment" = "חיה את הרגע";
+"Cherish every second" = "הוקיר כל שנייה";
+"Find beauty in simplicity" = "מצא יופי בפשטות";
+"Moments create memories" = "רגעים יוצרים זיכרונות";
+"Be present, be happy" = "היה נוכח, היה מאושר";
+
+// Add Moment View
+"What made you smile today?" = "מה גרם לך לחייך היום?";
+"Enter your moment..." = "הכנס את הרגע שלך...";
+"Enter up to 25 characters" = "הכנס עד 25 תווים";
+"Choose an emoji" = "בחר אימוג'י";
+"Recently used" = "בשימוש לאחרונה";
+"Popular" = "פופולרי";
+"Save Moment" = "שמור רגע";
+"Moment saved!" = "הרגע נשמר!";
+
+// Catalog View
+"Search moments..." = "חפש רגעים...";
+"No moments yet" = "עדיין אין רגעים";
+"Add your first moment to see it here!" = "הוסף את הרגע הראשון שלך כדי לראות אותו כאן!";
+"No moments found" = "לא נמצאו רגעים";
+"Try searching with different keywords" = "נסה לחפש עם מילות מפתח שונות";
+
+// Statistics View
+"Your Moments" = "הרגעים שלך";
+"Statistics" = "סטטיסטיקה";
+"Top 5 Moments" = "5 הרגעים המובילים";
+"times" = "פעמים";
+"Activity" = "פעילות";
+"No activity yet" = "עדיין אין פעילות";
+"Time Distribution" = "התפלגות זמן";
+"Morning" = "בוקר";
+"Afternoon" = "אחר הצהריים";
+"Evening" = "ערב";
+"Night" = "לילה";
+"Summary" = "סיכום";
+"Total Moments" = "סה\"כ רגעים";
+"Current Streak" = "רצף נוכחי";
+"Loading statistics..." = "טוען סטטיסטיקה...";
+"Moments" = "רגעים";
+
+// Profile View
+"Moments User" = "משתמש רגעים";
+"Edit name" = "ערוך שם";
+"Daily Goal" = "יעד יומי";
+"Set a goal to add at least 1 moment per day" = "הגדר יעד להוסיף לפחות רגע אחד ביום";
+"Notifications" = "התראות";
+"Get reminded to add moments" = "קבל תזכורות להוספת רגעים";
+"Reminder Time" = "זמן תזכורת";
+"Not set" = "לא מוגדר";
+"About Moments" = "אודות רגעים";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "רגעים עוזר לך להבחין ולהעריך את הדברים הקטנים שעושים את החיים יפים. כל רגע חשוב, לא משנה כמה קטן.";
+"Thank you for using Moments!" = "תודה שאתה משתמש ברגעים!";
+"Export Data" = "ייצוא נתונים";
+"Clear All Data" = "נקה את כל הנתונים";
+"Delete" = "מחק";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "האם אתה בטוח שברצונך למחוק את כל הרגעים ולאפס את ההגדרות? לא ניתן לבטל פעולה זו.";
+"Enter your name" = "הכנס את שמך";
+"Save" = "שמור";
+"Edit Name" = "ערוך שם";
+"Cancel" = "ביטול";
+"Set Time" = "הגדר זמן";
+"Set Reminder Time" = "הגדר זמן תזכורת";

@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Øjeblikke";
+
+// Language Selection
+"Choose your language" = "Vælg dit sprog";
+"Your device language:" = "Dit enhedssprog:";
+"Select Language" = "Vælg sprog";
+"Continue" = "Fortsæt";
+"Language" = "Sprog";
+"Done" = "Færdig";
+
+// Tab Bar
+"Today" = "I dag";
+"Catalog" = "Katalog";
+"Add" = "Tilføj";
+"Statistics" = "Statistik";
+"Profile" = "Profil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Dagligt mål: ✅ Fuldført";
+"Daily Goal: Add 1 moment" = "Dagligt mål: Tilføj 1 øjeblik";
+"No moments today yet" = "Ingen øjeblikke i dag endnu";
+"Tap the + button to add your first moment of the day!" = "Tryk på +-knappen for at tilføje dit første øjeblik i dag!";
+"Daily Goal Achieved!" = "Dagligt mål opnået!";
+"Great job! Keep it up! 💪" = "Godt gået! Fortsæt sådan! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Hvert øjeblik tæller";
+"Find joy in the little things" = "Find glæde i de små ting";
+"Appreciate the present" = "Sæt pris på nuet";
+"Small moments make big memories" = "Små øjeblikke skaber store minder";
+"Happiness is in the details" = "Lykke findes i detaljerne";
+"Live in the moment" = "Lev i nuet";
+"Cherish every second" = "Værdsæt hvert sekund";
+"Find beauty in simplicity" = "Find skønhed i enkelhed";
+"Moments create memories" = "Øjeblikke skaber minder";
+"Be present, be happy" = "Vær til stede, vær lykkelig";
+
+// Add Moment View
+"What made you smile today?" = "Hvad fik dig til at smile i dag?";
+"Enter your moment..." = "Indtast dit øjeblik...";
+"Enter up to 25 characters" = "Indtast op til 25 tegn";
+"Choose an emoji" = "Vælg en emoji";
+"Recently used" = "Senest brugt";
+"Popular" = "Populære";
+"Save Moment" = "Gem øjeblik";
+"Moment saved!" = "Øjeblik gemt!";
+
+// Catalog View
+"Search moments..." = "Søg øjeblikke...";
+"No moments yet" = "Ingen øjeblikke endnu";
+"Add your first moment to see it here!" = "Tilføj dit første øjeblik for at se det her!";
+"No moments found" = "Ingen øjeblikke fundet";
+"Try searching with different keywords" = "Prøv at søge med andre søgeord";
+
+// Statistics View
+"Your Moments" = "Dine øjeblikke";
+"Statistics" = "Statistik";
+"Top 5 Moments" = "Top 5 øjeblikke";
+"times" = "gange";
+"Activity" = "Aktivitet";
+"No activity yet" = "Ingen aktivitet endnu";
+"Time Distribution" = "Tidsfordeling";
+"Morning" = "Morgen";
+"Afternoon" = "Eftermiddag";
+"Evening" = "Aften";
+"Night" = "Nat";
+"Summary" = "Oversigt";
+"Total Moments" = "Samlede øjeblikke";
+"Current Streak" = "Nuværende streak";
+"Loading statistics..." = "Indlæser statistik...";
+"Moments" = "Øjeblikke";
+
+// Profile View
+"Moments User" = "Øjeblikke-bruger";
+"Edit name" = "Rediger navn";
+"Daily Goal" = "Dagligt mål";
+"Set a goal to add at least 1 moment per day" = "Sæt et mål om at tilføje mindst 1 øjeblik om dagen";
+"Notifications" = "Notifikationer";
+"Get reminded to add moments" = "Få påmindelser om at tilføje øjeblikke";
+"Reminder Time" = "Påmindelsestid";
+"Not set" = "Ikke indstillet";
+"About Moments" = "Om Øjeblikke";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Øjeblikke hjælper dig med at bemærke og værdsætte de små ting, der gør livet smukt. Hvert øjeblik tæller, uanset hvor lille.";
+"Thank you for using Moments!" = "Tak fordi du bruger Øjeblikke!";
+"Export Data" = "Eksporter data";
+"Clear All Data" = "Ryd alle data";
+"Delete" = "Slet";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Er du sikker på, at du vil slette alle øjeblikke og nulstille indstillinger? Denne handling kan ikke fortrydes.";
+"Enter your name" = "Indtast dit navn";
+"Save" = "Gem";
+"Edit Name" = "Rediger navn";
+"Cancel" = "Annuller";
+"Set Time" = "Indstil tid";
+"Set Reminder Time" = "Indstil påmindelsestid";

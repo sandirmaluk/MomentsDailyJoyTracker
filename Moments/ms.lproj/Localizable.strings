@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Moments
+  Malay
+*/
+
+// App Title
+"Moments" = "Detik";
+
+// Language Selection
+"Choose your language" = "Pilih bahasa anda";
+"Your device language:" = "Bahasa peranti anda:";
+"Select Language" = "Pilih Bahasa";
+"Continue" = "Teruskan";
+"Language" = "Bahasa";
+"Done" = "Selesai";
+
+// Tab Bar
+"Today" = "Hari ini";
+"Catalog" = "Katalog";
+"Add" = "Tambah";
+"Statistics" = "Statistik";
+"Profile" = "Profil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Matlamat Harian: ✅ Selesai";
+"Daily Goal: Add 1 moment" = "Matlamat Harian: Tambah 1 detik";
+"No moments today yet" = "Belum ada detik hari ini";
+"Tap the + button to add your first moment of the day!" = "Ketik butang + untuk menambah detik pertama anda hari ini!";
+"Daily Goal Achieved!" = "Matlamat Harian Tercapai!";
+"Great job! Keep it up! 💪" = "Kerja yang bagus! Teruskan! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Setiap detik penting";
+"Find joy in the little things" = "Cari kegembiraan dalam perkara kecil";
+"Appreciate the present" = "Hargai masa kini";
+"Small moments make big memories" = "Detik kecil mencipta kenangan besar";
+"Happiness is in the details" = "Kebahagiaan dalam perincian";
+"Live in the moment" = "Hidup pada detik ini";
+"Cherish every second" = "Hargai setiap saat";
+"Find beauty in simplicity" = "Cari keindahan dalam kesederhanaan";
+"Moments create memories" = "Detik mencipta kenangan";
+"Be present, be happy" = "Hadir, gembira";
+
+// Add Moment View
+"What made you smile today?" = "Apa yang membuat anda tersenyum hari ini?";
+"Enter your moment..." = "Masukkan detik anda...";
+"Enter up to 25 characters" = "Masukkan sehingga 25 aksara";
+"Choose an emoji" = "Pilih emoji";
+"Recently used" = "Baru digunakan";
+"Popular" = "Popular";
+"Save Moment" = "Simpan detik";
+"Moment saved!" = "Detik disimpan!";
+
+// Catalog View
+"Search moments..." = "Cari detik...";
+"No moments yet" = "Belum ada detik";
+"Add your first moment to see it here!" = "Tambah detik pertama anda untuk melihatnya di sini!";
+"No moments found" = "Tiada detik dijumpai";
+"Try searching with different keywords" = "Cuba cari dengan kata kunci yang berbeza";
+
+// Statistics View
+"Your Moments" = "Detik Anda";
+"Statistics" = "Statistik";
+"Top 5 Moments" = "5 Detik Teratas";
+"times" = "kali";
+"Activity" = "Aktiviti";
+"No activity yet" = "Belum ada aktiviti";
+"Time Distribution" = "Taburan Masa";
+"Morning" = "Pagi";
+"Afternoon" = "Tengahari";
+"Evening" = "Petang";
+"Night" = "Malam";
+"Summary" = "Ringkasan";
+"Total Moments" = "Jumlah Detik";
+"Current Streak" = "Rentetan Semasa";
+"Loading statistics..." = "Memuatkan statistik...";
+"Moments" = "Detik";
+
+// Profile View
+"Moments User" = "Pengguna Detik";
+"Edit name" = "Edit nama";
+"Daily Goal" = "Matlamat Harian";
+"Set a goal to add at least 1 moment per day" = "Tetapkan matlamat untuk menambah sekurang-kurangnya 1 detik sehari";
+"Notifications" = "Pemberitahuan";
+"Get reminded to add moments" = "Dapatkan peringatan untuk menambah detik";
+"Reminder Time" = "Masa Peringatan";
+"Not set" = "Belum ditetapkan";
+"About Moments" = "Tentang Detik";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Detik membantu anda menyedari dan menghargai perkara kecil yang menjadikan kehidupan indah. Setiap detik penting, tidak kira betapa kecilnya.";
+"Thank you for using Moments!" = "Terima kasih kerana menggunakan Detik!";
+"Export Data" = "Eksport Data";
+"Clear All Data" = "Padam Semua Data";
+"Delete" = "Padam";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Adakah anda pasti mahu memadam semua detik dan menetapkan semula tetapan? Tindakan ini tidak boleh dibatalkan.";
+"Enter your name" = "Masukkan nama anda";
+"Save" = "Simpan";
+"Edit Name" = "Edit Nama";
+"Cancel" = "Batal";
+"Set Time" = "Tetapkan Masa";
+"Set Reminder Time" = "Tetapkan Masa Peringatan";

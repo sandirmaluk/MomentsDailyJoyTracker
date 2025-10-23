@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Moments
+  Catalan
+*/
+
+// App Title
+"Moments" = "Moments";
+
+// Language Selection
+"Choose your language" = "Trieu el vostre idioma";
+"Your device language:" = "Idioma del vostre dispositiu:";
+"Select Language" = "Seleccionar idioma";
+"Continue" = "Continuar";
+"Language" = "Idioma";
+"Done" = "Fet";
+
+// Tab Bar
+"Today" = "Avui";
+"Catalog" = "Catàleg";
+"Add" = "Afegir";
+"Statistics" = "Estadístiques";
+"Profile" = "Perfil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Objectiu diari: ✅ Completat";
+"Daily Goal: Add 1 moment" = "Objectiu diari: Afegeix 1 moment";
+"No moments today yet" = "Encara no hi ha moments avui";
+"Tap the + button to add your first moment of the day!" = "Toqueu el botó + per afegir el vostre primer moment del dia!";
+"Daily Goal Achieved!" = "Objectiu diari assolit!";
+"Great job! Keep it up! 💪" = "Gran feina! Continueu així! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Cada moment compta";
+"Find joy in the little things" = "Trobeu alegria en les petites coses";
+"Appreciate the present" = "Aprecieu el present";
+"Small moments make big memories" = "Els petits moments creen grans records";
+"Happiness is in the details" = "La felicitat és en els detalls";
+"Live in the moment" = "Viviu el moment";
+"Cherish every second" = "Aprecieu cada segon";
+"Find beauty in simplicity" = "Trobeu bellesa en la simplicitat";
+"Moments create memories" = "Els moments creen records";
+"Be present, be happy" = "Sigueu presents, sigueu feliços";
+
+// Add Moment View
+"What made you smile today?" = "Què us ha fet somriure avui?";
+"Enter your moment..." = "Introduïu el vostre moment...";
+"Enter up to 25 characters" = "Introduïu fins a 25 caràcters";
+"Choose an emoji" = "Trieu un emoji";
+"Recently used" = "Utilitzats recentment";
+"Popular" = "Populars";
+"Save Moment" = "Desar moment";
+"Moment saved!" = "Moment desat!";
+
+// Catalog View
+"Search moments..." = "Cercar moments...";
+"No moments yet" = "Encara no hi ha moments";
+"Add your first moment to see it here!" = "Afegiu el vostre primer moment per veure'l aquí!";
+"No moments found" = "No s'han trobat moments";
+"Try searching with different keywords" = "Proveu de cercar amb paraules clau diferents";
+
+// Statistics View
+"Your Moments" = "Els vostres moments";
+"Statistics" = "Estadístiques";
+"Top 5 Moments" = "Top 5 moments";
+"times" = "vegades";
+"Activity" = "Activitat";
+"No activity yet" = "Encara no hi ha activitat";
+"Time Distribution" = "Distribució temporal";
+"Morning" = "Matí";
+"Afternoon" = "Tarda";
+"Evening" = "Vespre";
+"Night" = "Nit";
+"Summary" = "Resum";
+"Total Moments" = "Total de moments";
+"Current Streak" = "Ratxa actual";
+"Loading statistics..." = "Carregant estadístiques...";
+"Moments" = "Moments";
+
+// Profile View
+"Moments User" = "Usuari de Moments";
+"Edit name" = "Editar nom";
+"Daily Goal" = "Objectiu diari";
+"Set a goal to add at least 1 moment per day" = "Establiu un objectiu d'afegir almenys 1 moment al dia";
+"Notifications" = "Notificacions";
+"Get reminded to add moments" = "Rebeu recordatoris per afegir moments";
+"Reminder Time" = "Hora del recordatori";
+"Not set" = "No establert";
+"About Moments" = "Sobre Moments";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Moments us ajuda a notar i apreciar les petites coses que fan que la vida sigui bonica. Cada moment compta, per petit que sigui.";
+"Thank you for using Moments!" = "Gràcies per utilitzar Moments!";
+"Export Data" = "Exportar dades";
+"Clear All Data" = "Esborrar totes les dades";
+"Delete" = "Eliminar";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Esteu segur que voleu eliminar tots els moments i restablir la configuració? Aquesta acció no es pot desfer.";
+"Enter your name" = "Introduïu el vostre nom";
+"Save" = "Desar";
+"Edit Name" = "Editar nom";
+"Cancel" = "Cancel·lar";
+"Set Time" = "Establir hora";
+"Set Reminder Time" = "Establir hora del recordatori";

@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Hetket";
+
+// Language Selection
+"Choose your language" = "Valitse kielesi";
+"Your device language:" = "Laitteesi kieli:";
+"Select Language" = "Valitse kieli";
+"Continue" = "Jatka";
+"Language" = "Kieli";
+"Done" = "Valmis";
+
+// Tab Bar
+"Today" = "Tänään";
+"Catalog" = "Luettelo";
+"Add" = "Lisää";
+"Statistics" = "Tilastot";
+"Profile" = "Profiili";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Päivittäinen tavoite: ✅ Suoritettu";
+"Daily Goal: Add 1 moment" = "Päivittäinen tavoite: Lisää 1 hetki";
+"No moments today yet" = "Ei hetkiä vielä tänään";
+"Tap the + button to add your first moment of the day!" = "Napauta + -painiketta lisätäksesi päivän ensimmäisen hetken!";
+"Daily Goal Achieved!" = "Päivittäinen tavoite saavutettu!";
+"Great job! Keep it up! 💪" = "Hienoa työtä! Jatka samaan malliin! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Jokainen hetki on tärkeä";
+"Find joy in the little things" = "Löydä iloa pienistä asioista";
+"Appreciate the present" = "Arvosta nykyhetkeä";
+"Small moments make big memories" = "Pienet hetket luovat suuria muistoja";
+"Happiness is in the details" = "Onnellisuus piilee yksityiskohdissa";
+"Live in the moment" = "Elä hetkessä";
+"Cherish every second" = "Vaalii jokaista sekuntia";
+"Find beauty in simplicity" = "Löydä kauneutta yksinkertaisuudesta";
+"Moments create memories" = "Hetket luovat muistoja";
+"Be present, be happy" = "Ole läsnä, ole onnellinen";
+
+// Add Moment View
+"What made you smile today?" = "Mikä sai sinut hymyilemään tänään?";
+"Enter your moment..." = "Kirjoita hetkesi...";
+"Enter up to 25 characters" = "Kirjoita enintään 25 merkkiä";
+"Choose an emoji" = "Valitse emoji";
+"Recently used" = "Äskettäin käytetyt";
+"Popular" = "Suositut";
+"Save Moment" = "Tallenna hetki";
+"Moment saved!" = "Hetki tallennettu!";
+
+// Catalog View
+"Search moments..." = "Etsi hetkiä...";
+"No moments yet" = "Ei hetkiä vielä";
+"Add your first moment to see it here!" = "Lisää ensimmäinen hetkesi nähdäksesi sen täällä!";
+"No moments found" = "Hetkiä ei löytynyt";
+"Try searching with different keywords" = "Kokeile hakea eri hakusanoilla";
+
+// Statistics View
+"Your Moments" = "Hetkesi";
+"Statistics" = "Tilastot";
+"Top 5 Moments" = "Top 5 hetkeä";
+"times" = "kertaa";
+"Activity" = "Aktiivisuus";
+"No activity yet" = "Ei aktiivisuutta vielä";
+"Time Distribution" = "Aikajakauma";
+"Morning" = "Aamu";
+"Afternoon" = "Iltapäivä";
+"Evening" = "Ilta";
+"Night" = "Yö";
+"Summary" = "Yhteenveto";
+"Total Moments" = "Hetket yhteensä";
+"Current Streak" = "Nykyinen putki";
+"Loading statistics..." = "Ladataan tilastoja...";
+"Moments" = "Hetket";
+
+// Profile View
+"Moments User" = "Hetket-käyttäjä";
+"Edit name" = "Muokkaa nimeä";
+"Daily Goal" = "Päivittäinen tavoite";
+"Set a goal to add at least 1 moment per day" = "Aseta tavoitteeksi lisätä vähintään 1 hetki päivässä";
+"Notifications" = "Ilmoitukset";
+"Get reminded to add moments" = "Saa muistutuksia hetkien lisäämisestä";
+"Reminder Time" = "Muistutusaika";
+"Not set" = "Ei asetettu";
+"About Moments" = "Tietoa Hetkistä";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Hetket auttaa sinua huomaamaan ja arvostamaan pieniä asioita, jotka tekevät elämästä kaunista. Jokainen hetki on tärkeä, vaikka kuinka pieni.";
+"Thank you for using Moments!" = "Kiitos Hetkien käytöstä!";
+"Export Data" = "Vie tiedot";
+"Clear All Data" = "Tyhjennä kaikki tiedot";
+"Delete" = "Poista";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Haluatko varmasti poistaa kaikki hetket ja palauttaa asetukset? Tätä toimintoa ei voi perua.";
+"Enter your name" = "Kirjoita nimesi";
+"Save" = "Tallenna";
+"Edit Name" = "Muokkaa nimeä";
+"Cancel" = "Peruuta";
+"Set Time" = "Aseta aika";
+"Set Reminder Time" = "Aseta muistutusaika";

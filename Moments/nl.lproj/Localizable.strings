@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Momenten";
+
+// Language Selection
+"Choose your language" = "Kies je taal";
+"Your device language:" = "Taal van je apparaat:";
+"Select Language" = "Selecteer taal";
+"Continue" = "Doorgaan";
+"Language" = "Taal";
+"Done" = "Klaar";
+
+// Tab Bar
+"Today" = "Vandaag";
+"Catalog" = "Catalogus";
+"Add" = "Toevoegen";
+"Statistics" = "Statistieken";
+"Profile" = "Profiel";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Dagelijks doel: ✅ Voltooid";
+"Daily Goal: Add 1 moment" = "Dagelijks doel: Voeg 1 moment toe";
+"No moments today yet" = "Nog geen momenten vandaag";
+"Tap the + button to add your first moment of the day!" = "Tik op de + knop om je eerste moment van de dag toe te voegen!";
+"Daily Goal Achieved!" = "Dagelijks doel behaald!";
+"Great job! Keep it up! 💪" = "Goed gedaan! Ga zo door! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Elk moment telt";
+"Find joy in the little things" = "Vind vreugde in de kleine dingen";
+"Appreciate the present" = "Waardeer het heden";
+"Small moments make big memories" = "Kleine momenten maken grote herinneringen";
+"Happiness is in the details" = "Geluk zit in de details";
+"Live in the moment" = "Leef in het moment";
+"Cherish every second" = "Koester elke seconde";
+"Find beauty in simplicity" = "Vind schoonheid in eenvoud";
+"Moments create memories" = "Momenten creëren herinneringen";
+"Be present, be happy" = "Wees aanwezig, wees gelukkig";
+
+// Add Moment View
+"What made you smile today?" = "Wat bracht je vandaag aan het glimlachen?";
+"Enter your moment..." = "Voer je moment in...";
+"Enter up to 25 characters" = "Voer tot 25 tekens in";
+"Choose an emoji" = "Kies een emoji";
+"Recently used" = "Recent gebruikt";
+"Popular" = "Populair";
+"Save Moment" = "Moment opslaan";
+"Moment saved!" = "Moment opgeslagen!";
+
+// Catalog View
+"Search moments..." = "Zoek momenten...";
+"No moments yet" = "Nog geen momenten";
+"Add your first moment to see it here!" = "Voeg je eerste moment toe om het hier te zien!";
+"No moments found" = "Geen momenten gevonden";
+"Try searching with different keywords" = "Probeer te zoeken met andere zoekwoorden";
+
+// Statistics View
+"Your Moments" = "Jouw momenten";
+"Statistics" = "Statistieken";
+"Top 5 Moments" = "Top 5 momenten";
+"times" = "keer";
+"Activity" = "Activiteit";
+"No activity yet" = "Nog geen activiteit";
+"Time Distribution" = "Tijdverdeling";
+"Morning" = "Ochtend";
+"Afternoon" = "Middag";
+"Evening" = "Avond";
+"Night" = "Nacht";
+"Summary" = "Samenvatting";
+"Total Moments" = "Totale momenten";
+"Current Streak" = "Huidige reeks";
+"Loading statistics..." = "Statistieken laden...";
+"Moments" = "Momenten";
+
+// Profile View
+"Moments User" = "Momenten-gebruiker";
+"Edit name" = "Naam bewerken";
+"Daily Goal" = "Dagelijks doel";
+"Set a goal to add at least 1 moment per day" = "Stel een doel in om minimaal 1 moment per dag toe te voegen";
+"Notifications" = "Meldingen";
+"Get reminded to add moments" = "Ontvang herinneringen om momenten toe te voegen";
+"Reminder Time" = "Herinneringstijd";
+"Not set" = "Niet ingesteld";
+"About Moments" = "Over Momenten";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Momenten helpt je de kleine dingen op te merken en te waarderen die het leven mooi maken. Elk moment telt, hoe klein ook.";
+"Thank you for using Moments!" = "Bedankt voor het gebruiken van Momenten!";
+"Export Data" = "Gegevens exporteren";
+"Clear All Data" = "Alle gegevens wissen";
+"Delete" = "Verwijderen";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Weet je zeker dat je alle momenten wilt verwijderen en instellingen wilt resetten? Deze actie kan niet ongedaan worden gemaakt.";
+"Enter your name" = "Voer je naam in";
+"Save" = "Opslaan";
+"Edit Name" = "Naam bewerken";
+"Cancel" = "Annuleren";
+"Set Time" = "Tijd instellen";
+"Set Reminder Time" = "Herinneringstijd instellen";

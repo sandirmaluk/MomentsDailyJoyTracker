@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "لحظات";
+
+// Language Selection
+"Choose your language" = "اختر لغتك";
+"Your device language:" = "لغة جهازك:";
+"Select Language" = "اختيار اللغة";
+"Continue" = "متابعة";
+"Language" = "اللغة";
+"Done" = "تم";
+
+// Tab Bar
+"Today" = "اليوم";
+"Catalog" = "الكتالوج";
+"Add" = "إضافة";
+"Statistics" = "الإحصائيات";
+"Profile" = "الملف الشخصي";
+
+// Today View
+"Daily Goal: ✅ Completed" = "الهدف اليومي: ✅ مكتمل";
+"Daily Goal: Add 1 moment" = "الهدف اليومي: إضافة لحظة واحدة";
+"No moments today yet" = "لا توجد لحظات اليوم بعد";
+"Tap the + button to add your first moment of the day!" = "انقر على زر + لإضافة أول لحظة في يومك!";
+"Daily Goal Achieved!" = "تم تحقيق الهدف اليومي!";
+"Great job! Keep it up! 💪" = "عمل رائع! استمر! 💪";
+
+// Add Moment View
+"What made you smile today?" = "ما الذي جعلك تبتسم اليوم؟";
+"Enter your moment..." = "أدخل لحظتك...";
+"Enter up to 25 characters" = "أدخل حتى 25 حرفًا";
+"Choose an emoji" = "اختر رمز تعبيري";
+"Recently used" = "المستخدمة مؤخرًا";
+"Popular" = "شائعة";
+"Save Moment" = "حفظ اللحظة";
+"Moment saved!" = "تم حفظ اللحظة!";
+
+// Catalog View
+"Search moments..." = "البحث عن لحظات...";
+"No moments yet" = "لا توجد لحظات بعد";
+"Add your first moment to see it here!" = "أضف لحظتك الأولى لرؤيتها هنا!";
+"No moments found" = "لم يتم العثور على لحظات";
+"Try searching with different keywords" = "حاول البحث بكلمات مفتاحية مختلفة";
+
+// Statistics View
+"Your Moments" = "لحظاتك";
+"Statistics" = "الإحصائيات";
+"Top 5 Moments" = "أفضل 5 لحظات";
+"times" = "مرات";
+"Activity" = "النشاط";
+"No activity yet" = "لا يوجد نشاط بعد";
+"Time Distribution" = "توزيع الوقت";
+"Morning" = "الصباح";
+"Afternoon" = "بعد الظهر";
+"Evening" = "المساء";
+"Night" = "الليل";
+"Summary" = "الملخص";
+"Total Moments" = "إجمالي اللحظات";
+"Current Streak" = "السلسلة الحالية";
+"Loading statistics..." = "جارٍ تحميل الإحصائيات...";
+"Moments" = "لحظات";
+
+// Profile View
+"Moments User" = "مستخدم لحظات";
+"Edit name" = "تعديل الاسم";
+"Daily Goal" = "الهدف اليومي";
+"Set a goal to add at least 1 moment per day" = "حدد هدفًا لإضافة لحظة واحدة على الأقل يوميًا";
+"Notifications" = "الإشعارات";
+"Get reminded to add moments" = "احصل على تذكيرات لإضافة لحظات";
+"Reminder Time" = "وقت التذكير";
+"Not set" = "غير محدد";
+"About Moments" = "حول لحظات";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "تساعدك لحظات على ملاحظة وتقدير الأشياء الصغيرة التي تجعل الحياة جميلة. كل لحظة مهمة مهما كانت صغيرة.";
+"Thank you for using Moments!" = "شكرًا لاستخدام لحظات!";
+"Export Data" = "تصدير البيانات";
+"Clear All Data" = "مسح جميع البيانات";
+"Delete" = "حذف";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "هل أنت متأكد من رغبتك في حذف جميع اللحظات وإعادة تعيين الإعدادات؟ لا يمكن التراجع عن هذا الإجراء.";
+"Enter your name" = "أدخل اسمك";
+"Save" = "حفظ";
+"Edit Name" = "تعديل الاسم";
+"Cancel" = "إلغاء";
+"Set Time" = "تحديد الوقت";
+"Set Reminder Time" = "تحديد وقت التذكير";
+// Inspirational Quotes
+"Every moment matters" = "كل لحظة مهمة";
+"Find joy in the little things" = "اعثر على الفرح في الأشياء الصغيرة";
+"Appreciate the present" = "قدّر الحاضر";
+"Small moments make big memories" = "اللحظات الصغيرة تصنع ذكريات كبيرة";
+"Happiness is in the details" = "السعادة في التفاصيل";
+"Live in the moment" = "عش اللحظة";
+"Cherish every second" = "اعتز بكل ثانية";
+"Find beauty in simplicity" = "اعثر على الجمال في البساطة";
+"Moments create memories" = "اللحظات تصنع الذكريات";
+"Be present, be happy" = "كن حاضرًا، كن سعيدًا";

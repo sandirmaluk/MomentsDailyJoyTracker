@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "時刻";
+
+// Language Selection
+"Choose your language" = "選擇您的語言";
+"Your device language:" = "您的裝置語言：";
+"Select Language" = "選擇語言";
+"Continue" = "繼續";
+"Language" = "語言";
+"Done" = "完成";
+
+// Tab Bar
+"Today" = "今天";
+"Catalog" = "目錄";
+"Add" = "新增";
+"Statistics" = "統計";
+"Profile" = "個人資料";
+
+// Today View
+"Daily Goal: ✅ Completed" = "每日目標：✅ 已完成";
+"Daily Goal: Add 1 moment" = "每日目標：新增1個時刻";
+"No moments today yet" = "今天還沒有時刻";
+"Tap the + button to add your first moment of the day!" = "點擊+按鈕新增您今天的第一個時刻！";
+"Daily Goal Achieved!" = "每日目標達成！";
+"Great job! Keep it up! 💪" = "做得好！繼續保持！💪";
+
+// Add Moment View
+"What made you smile today?" = "今天什麼讓您微笑？";
+"Enter your moment..." = "輸入您的時刻...";
+"Enter up to 25 characters" = "輸入最多25個字元";
+"Choose an emoji" = "選擇一個表情符號";
+"Recently used" = "最近使用";
+"Popular" = "熱門";
+"Save Moment" = "儲存時刻";
+"Moment saved!" = "時刻已儲存！";
+
+// Catalog View
+"Search moments..." = "搜尋時刻...";
+"No moments yet" = "還沒有時刻";
+"Add your first moment to see it here!" = "新增您的第一個時刻以在此查看！";
+"No moments found" = "未找到時刻";
+"Try searching with different keywords" = "嘗試使用不同的關鍵字搜尋";
+
+// Statistics View
+"Your Moments" = "您的時刻";
+"Statistics" = "統計";
+"Top 5 Moments" = "前5個時刻";
+"times" = "次";
+"Activity" = "活動";
+"No activity yet" = "還沒有活動";
+"Time Distribution" = "時間分布";
+"Morning" = "早上";
+"Afternoon" = "下午";
+"Evening" = "傍晚";
+"Night" = "夜晚";
+"Summary" = "摘要";
+"Total Moments" = "總時刻數";
+"Current Streak" = "目前連續";
+"Loading statistics..." = "正在載入統計...";
+"Moments" = "時刻";
+
+// Profile View
+"Moments User" = "時刻使用者";
+"Edit name" = "編輯姓名";
+"Daily Goal" = "每日目標";
+"Set a goal to add at least 1 moment per day" = "設定每天至少新增1個時刻的目標";
+"Notifications" = "通知";
+"Get reminded to add moments" = "獲得新增時刻的提醒";
+"Reminder Time" = "提醒時間";
+"Not set" = "未設定";
+"About Moments" = "關於時刻";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "時刻幫助您注意和欣賞讓生活美好的小事。每個時刻都很重要，無論多麼微小。";
+"Thank you for using Moments!" = "感謝您使用時刻！";
+"Export Data" = "匯出資料";
+"Clear All Data" = "清除所有資料";
+"Delete" = "刪除";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "您確定要刪除所有時刻並重設設定嗎？此操作無法復原。";
+"Enter your name" = "輸入您的姓名";
+"Save" = "儲存";
+"Edit Name" = "編輯姓名";
+"Cancel" = "取消";
+"Set Time" = "設定時間";
+"Set Reminder Time" = "設定提醒時間";
+// Inspirational Quotes
+"Every moment matters" = "每個時刻都重要";
+"Find joy in the little things" = "在小事中找到快樂";
+"Appreciate the present" = "珍惜當下";
+"Small moments make big memories" = "小時刻創造大回憶";
+"Happiness is in the details" = "幸福在細節中";
+"Live in the moment" = "活在當下";
+"Cherish every second" = "珍惜每一秒";
+"Find beauty in simplicity" = "在簡單中發現美";
+"Moments create memories" = "時刻創造回憶";
+"Be present, be happy" = "活在當下，快樂相隨";
+

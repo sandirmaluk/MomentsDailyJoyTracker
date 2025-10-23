@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Moments
+  Vietnamese
+*/
+
+// App Title
+"Moments" = "Khoảnh khắc";
+
+// Language Selection
+"Choose your language" = "Chọn ngôn ngữ của bạn";
+"Your device language:" = "Ngôn ngữ thiết bị của bạn:";
+"Select Language" = "Chọn ngôn ngữ";
+"Continue" = "Tiếp tục";
+"Language" = "Ngôn ngữ";
+"Done" = "Xong";
+
+// Tab Bar
+"Today" = "Hôm nay";
+"Catalog" = "Danh mục";
+"Add" = "Thêm";
+"Statistics" = "Thống kê";
+"Profile" = "Hồ sơ";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Mục tiêu hàng ngày: ✅ Hoàn thành";
+"Daily Goal: Add 1 moment" = "Mục tiêu hàng ngày: Thêm 1 khoảnh khắc";
+"No moments today yet" = "Chưa có khoảnh khắc nào hôm nay";
+"Tap the + button to add your first moment of the day!" = "Nhấn nút + để thêm khoảnh khắc đầu tiên trong ngày của bạn!";
+"Daily Goal Achieved!" = "Đã đạt mục tiêu hàng ngày!";
+"Great job! Keep it up! 💪" = "Làm tốt lắm! Tiếp tục phát huy! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Mỗi khoảnh khắc đều quan trọng";
+"Find joy in the little things" = "Tìm niềm vui trong những điều nhỏ nhặt";
+"Appreciate the present" = "Trân trọng hiện tại";
+"Small moments make big memories" = "Những khoảnh khắc nhỏ tạo nên ký ức lớn";
+"Happiness is in the details" = "Hạnh phúc nằm ở những chi tiết";
+"Live in the moment" = "Sống trong khoảnh khắc";
+"Cherish every second" = "Trân trọng từng giây phút";
+"Find beauty in simplicity" = "Tìm vẻ đẹp trong sự giản đơn";
+"Moments create memories" = "Khoảnh khắc tạo nên ký ức";
+"Be present, be happy" = "Hiện diện, hạnh phúc";
+
+// Add Moment View
+"What made you smile today?" = "Điều gì khiến bạn mỉm cười hôm nay?";
+"Enter your moment..." = "Nhập khoảnh khắc của bạn...";
+"Enter up to 25 characters" = "Nhập tối đa 25 ký tự";
+"Choose an emoji" = "Chọn một biểu tượng cảm xúc";
+"Recently used" = "Đã sử dụng gần đây";
+"Popular" = "Phổ biến";
+"Save Moment" = "Lưu khoảnh khắc";
+"Moment saved!" = "Đã lưu khoảnh khắc!";
+
+// Catalog View
+"Search moments..." = "Tìm kiếm khoảnh khắc...";
+"No moments yet" = "Chưa có khoảnh khắc nào";
+"Add your first moment to see it here!" = "Thêm khoảnh khắc đầu tiên của bạn để xem ở đây!";
+"No moments found" = "Không tìm thấy khoảnh khắc nào";
+"Try searching with different keywords" = "Thử tìm kiếm với các từ khóa khác";
+
+// Statistics View
+"Your Moments" = "Khoảnh khắc của bạn";
+"Statistics" = "Thống kê";
+"Top 5 Moments" = "Top 5 khoảnh khắc";
+"times" = "lần";
+"Activity" = "Hoạt động";
+"No activity yet" = "Chưa có hoạt động nào";
+"Time Distribution" = "Phân bố thời gian";
+"Morning" = "Buổi sáng";
+"Afternoon" = "Buổi chiều";
+"Evening" = "Buổi tối";
+"Night" = "Ban đêm";
+"Summary" = "Tóm tắt";
+"Total Moments" = "Tổng số khoảnh khắc";
+"Current Streak" = "Chuỗi hiện tại";
+"Loading statistics..." = "Đang tải thống kê...";
+"Moments" = "Khoảnh khắc";
+
+// Profile View
+"Moments User" = "Người dùng Khoảnh khắc";
+"Edit name" = "Chỉnh sửa tên";
+"Daily Goal" = "Mục tiêu hàng ngày";
+"Set a goal to add at least 1 moment per day" = "Đặt mục tiêu thêm ít nhất 1 khoảnh khắc mỗi ngày";
+"Notifications" = "Thông báo";
+"Get reminded to add moments" = "Nhận nhắc nhở để thêm khoảnh khắc";
+"Reminder Time" = "Thời gian nhắc nhở";
+"Not set" = "Chưa đặt";
+"About Moments" = "Về Khoảnh khắc";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Khoảnh khắc giúp bạn chú ý và trân trọng những điều nhỏ nhặt làm cho cuộc sống trở nên đẹp đẽ. Mỗi khoảnh khắc đều quan trọng, dù nhỏ đến đâu.";
+"Thank you for using Moments!" = "Cảm ơn bạn đã sử dụng Khoảnh khắc!";
+"Export Data" = "Xuất dữ liệu";
+"Clear All Data" = "Xóa tất cả dữ liệu";
+"Delete" = "Xóa";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Bạn có chắc chắn muốn xóa tất cả khoảnh khắc và đặt lại cài đặt? Hành động này không thể hoàn tác.";
+"Enter your name" = "Nhập tên của bạn";
+"Save" = "Lưu";
+"Edit Name" = "Chỉnh sửa Tên";
+"Cancel" = "Hủy";
+"Set Time" = "Đặt thời gian";
+"Set Reminder Time" = "Đặt thời gian nhắc nhở";

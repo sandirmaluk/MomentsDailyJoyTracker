@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Momen";
+
+// Language Selection
+"Choose your language" = "Pilih bahasa Anda";
+"Your device language:" = "Bahasa perangkat Anda:";
+"Select Language" = "Pilih bahasa";
+"Continue" = "Lanjutkan";
+"Language" = "Bahasa";
+"Done" = "Selesai";
+
+// Tab Bar
+"Today" = "Hari ini";
+"Catalog" = "Katalog";
+"Add" = "Tambah";
+"Statistics" = "Statistik";
+"Profile" = "Profil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Target Harian: ✅ Selesai";
+"Daily Goal: Add 1 moment" = "Target Harian: Tambahkan 1 momen";
+"No moments today yet" = "Belum ada momen hari ini";
+"Tap the + button to add your first moment of the day!" = "Ketuk tombol + untuk menambahkan momen pertama Anda hari ini!";
+"Daily Goal Achieved!" = "Target Harian Tercapai!";
+"Great job! Keep it up! 💪" = "Kerja bagus! Teruskan! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Setiap momen berarti";
+"Find joy in the little things" = "Temukan kebahagiaan dalam hal-hal kecil";
+"Appreciate the present" = "Hargai saat ini";
+"Small moments make big memories" = "Momen kecil menciptakan kenangan besar";
+"Happiness is in the details" = "Kebahagiaan ada dalam detail";
+"Live in the moment" = "Hidup di saat ini";
+"Cherish every second" = "Hargai setiap detik";
+"Find beauty in simplicity" = "Temukan keindahan dalam kesederhanaan";
+"Moments create memories" = "Momen menciptakan kenangan";
+"Be present, be happy" = "Hadir, bahagia";
+
+// Add Moment View
+"What made you smile today?" = "Apa yang membuat Anda tersenyum hari ini?";
+"Enter your moment..." = "Masukkan momen Anda...";
+"Enter up to 25 characters" = "Masukkan hingga 25 karakter";
+"Choose an emoji" = "Pilih emoji";
+"Recently used" = "Baru digunakan";
+"Popular" = "Populer";
+"Save Moment" = "Simpan momen";
+"Moment saved!" = "Momen tersimpan!";
+
+// Catalog View
+"Search moments..." = "Cari momen...";
+"No moments yet" = "Belum ada momen";
+"Add your first moment to see it here!" = "Tambahkan momen pertama Anda untuk melihatnya di sini!";
+"No moments found" = "Tidak ada momen ditemukan";
+"Try searching with different keywords" = "Coba cari dengan kata kunci yang berbeda";
+
+// Statistics View
+"Your Moments" = "Momen Anda";
+"Statistics" = "Statistik";
+"Top 5 Moments" = "5 Momen Teratas";
+"times" = "kali";
+"Activity" = "Aktivitas";
+"No activity yet" = "Belum ada aktivitas";
+"Time Distribution" = "Distribusi Waktu";
+"Morning" = "Pagi";
+"Afternoon" = "Siang";
+"Evening" = "Sore";
+"Night" = "Malam";
+"Summary" = "Ringkasan";
+"Total Moments" = "Total Momen";
+"Current Streak" = "Rentetan Saat Ini";
+"Loading statistics..." = "Memuat statistik...";
+"Moments" = "Momen";
+
+// Profile View
+"Moments User" = "Pengguna Momen";
+"Edit name" = "Edit nama";
+"Daily Goal" = "Target Harian";
+"Set a goal to add at least 1 moment per day" = "Tetapkan target untuk menambahkan setidaknya 1 momen per hari";
+"Notifications" = "Notifikasi";
+"Get reminded to add moments" = "Dapatkan pengingat untuk menambahkan momen";
+"Reminder Time" = "Waktu Pengingat";
+"Not set" = "Belum diatur";
+"About Moments" = "Tentang Momen";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Momen membantu Anda memperhatikan dan menghargai hal-hal kecil yang membuat hidup indah. Setiap momen berarti, tidak peduli seberapa kecil.";
+"Thank you for using Moments!" = "Terima kasih telah menggunakan Momen!";
+"Export Data" = "Ekspor Data";
+"Clear All Data" = "Hapus Semua Data";
+"Delete" = "Hapus";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Apakah Anda yakin ingin menghapus semua momen dan mengatur ulang pengaturan? Tindakan ini tidak dapat dibatalkan.";
+"Enter your name" = "Masukkan nama Anda";
+"Save" = "Simpan";
+"Edit Name" = "Edit Nama";
+"Cancel" = "Batal";
+"Set Time" = "Atur Waktu";
+"Set Reminder Time" = "Atur Waktu Pengingat";

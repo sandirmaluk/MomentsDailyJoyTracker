@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Momenty";
+
+// Language Selection
+"Choose your language" = "Wybierz swój język";
+"Your device language:" = "Język twojego urządzenia:";
+"Select Language" = "Wybierz język";
+"Continue" = "Kontynuuj";
+"Language" = "Język";
+"Done" = "Gotowe";
+
+// Tab Bar
+"Today" = "Dzisiaj";
+"Catalog" = "Katalog";
+"Add" = "Dodaj";
+"Statistics" = "Statystyki";
+"Profile" = "Profil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Dzienny cel: ✅ Ukończony";
+"Daily Goal: Add 1 moment" = "Dzienny cel: Dodaj 1 moment";
+"No moments today yet" = "Dzisiaj jeszcze nie ma momentów";
+"Tap the + button to add your first moment of the day!" = "Naciśnij przycisk +, aby dodać swój pierwszy moment dnia!";
+"Daily Goal Achieved!" = "Dzienny cel osiągnięty!";
+"Great job! Keep it up! 💪" = "Świetna robota! Tak trzymaj! 💪";
+
+// Add Moment View
+"What made you smile today?" = "Co sprawiło, że się dzisiaj uśmiechnąłeś?";
+"Enter your moment..." = "Wpisz swój moment...";
+"Enter up to 25 characters" = "Wpisz do 25 znaków";
+"Choose an emoji" = "Wybierz emoji";
+"Recently used" = "Ostatnio używane";
+"Popular" = "Popularne";
+"Save Moment" = "Zapisz moment";
+"Moment saved!" = "Moment zapisany!";
+
+// Catalog View
+"Search moments..." = "Szukaj momentów...";
+"No moments yet" = "Jeszcze nie ma momentów";
+"Add your first moment to see it here!" = "Dodaj swój pierwszy moment, aby go tutaj zobaczyć!";
+"No moments found" = "Nie znaleziono momentów";
+"Try searching with different keywords" = "Spróbuj wyszukać za pomocą innych słów kluczowych";
+
+// Statistics View
+"Your Moments" = "Twoje momenty";
+"Statistics" = "Statystyki";
+"Top 5 Moments" = "Top 5 momentów";
+"times" = "razy";
+"Activity" = "Aktywność";
+"No activity yet" = "Jeszcze brak aktywności";
+"Time Distribution" = "Rozkład czasowy";
+"Morning" = "Rano";
+"Afternoon" = "Popołudnie";
+"Evening" = "Wieczór";
+"Night" = "Noc";
+"Summary" = "Podsumowanie";
+"Total Moments" = "Wszystkie momenty";
+"Current Streak" = "Bieżąca seria";
+"Loading statistics..." = "Ładowanie statystyk...";
+"Moments" = "Momenty";
+
+// Profile View
+"Moments User" = "Użytkownik Momenty";
+"Edit name" = "Edytuj imię";
+"Daily Goal" = "Dzienny cel";
+"Set a goal to add at least 1 moment per day" = "Ustaw cel dodawania co najmniej 1 momentu dziennie";
+"Notifications" = "Powiadomienia";
+"Get reminded to add moments" = "Otrzymuj przypomnienia o dodawaniu momentów";
+"Reminder Time" = "Czas przypomnienia";
+"Not set" = "Nie ustawiono";
+"About Moments" = "O Momentach";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Momenty pomagają zauważać i doceniać małe rzeczy, które czynią życie pięknym. Każdy moment się liczy, bez względu na to, jak mały.";
+"Thank you for using Moments!" = "Dziękujemy za korzystanie z Momentów!";
+"Export Data" = "Eksportuj dane";
+"Clear All Data" = "Wyczyść wszystkie dane";
+"Delete" = "Usuń";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Czy na pewno chcesz usunąć wszystkie momenty i zresetować ustawienia? Tej czynności nie można cofnąć.";
+"Enter your name" = "Wpisz swoje imię";
+"Save" = "Zapisz";
+"Edit Name" = "Edytuj imię";
+"Cancel" = "Anuluj";
+"Set Time" = "Ustaw czas";
+"Set Reminder Time" = "Ustaw czas przypomnienia";
+// Inspirational Quotes
+"Every moment matters" = "Każda chwila się liczy";
+"Find joy in the little things" = "Znajdź radość w małych rzeczach";
+"Appreciate the present" = "Doceniaj teraźniejszość";
+"Small moments make big memories" = "Małe chwile tworzą wielkie wspomnienia";
+"Happiness is in the details" = "Szczęście tkwi w szczegółach";
+"Live in the moment" = "Żyj chwilą";
+"Cherish every second" = "Ciesz się każdą sekundą";
+"Find beauty in simplicity" = "Znajdź piękno w prostocie";
+"Moments create memories" = "Chwile tworzą wspomnienia";
+"Be present, be happy" = "Bądź obecny, bądź szczęśliwy";
+

@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Momentos";
+
+// Language Selection
+"Choose your language" = "Elige tu idioma";
+"Your device language:" = "Idioma de tu dispositivo:";
+"Select Language" = "Seleccionar idioma";
+"Continue" = "Continuar";
+"Language" = "Idioma";
+"Done" = "Listo";
+
+// Tab Bar
+"Today" = "Hoy";
+"Catalog" = "Catálogo";
+"Add" = "Agregar";
+"Statistics" = "Estadísticas";
+"Profile" = "Perfil";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Meta diaria: ✅ Completada";
+"Daily Goal: Add 1 moment" = "Meta diaria: Agregar 1 momento";
+"No moments today yet" = "Aún no hay momentos hoy";
+"Tap the + button to add your first moment of the day!" = "¡Toca el botón + para agregar tu primer momento del día!";
+"Daily Goal Achieved!" = "¡Meta diaria lograda!";
+"Great job! Keep it up! 💪" = "¡Excelente trabajo! ¡Sigue así! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Cada momento importa";
+"Find joy in the little things" = "Encuentra alegría en las pequeñas cosas";
+"Appreciate the present" = "Aprecia el presente";
+"Small moments make big memories" = "Los pequeños momentos crean grandes recuerdos";
+"Happiness is in the details" = "La felicidad está en los detalles";
+"Live in the moment" = "Vive el momento";
+"Cherish every second" = "Aprecia cada segundo";
+"Find beauty in simplicity" = "Encuentra belleza en la simplicidad";
+"Moments create memories" = "Los momentos crean recuerdos";
+"Be present, be happy" = "Está presente, sé feliz";
+
+// Add Moment View
+"What made you smile today?" = "¿Qué te hizo sonreír hoy?";
+"Enter your moment..." = "Ingresa tu momento...";
+"Enter up to 25 characters" = "Ingresa hasta 25 caracteres";
+"Choose an emoji" = "Elige un emoji";
+"Recently used" = "Usados recientemente";
+"Popular" = "Populares";
+"Save Moment" = "Guardar momento";
+"Moment saved!" = "¡Momento guardado!";
+
+// Catalog View
+"Search moments..." = "Buscar momentos...";
+"No moments yet" = "Aún no hay momentos";
+"Add your first moment to see it here!" = "¡Agrega tu primer momento para verlo aquí!";
+"No moments found" = "No se encontraron momentos";
+"Try searching with different keywords" = "Intenta buscar con diferentes palabras clave";
+
+// Statistics View
+"Your Moments" = "Tus momentos";
+"Statistics" = "Estadísticas";
+"Top 5 Moments" = "Top 5 momentos";
+"times" = "veces";
+"Activity" = "Actividad";
+"No activity yet" = "Aún no hay actividad";
+"Time Distribution" = "Distribución de tiempo";
+"Morning" = "Mañana";
+"Afternoon" = "Tarde";
+"Evening" = "Noche";
+"Night" = "Madrugada";
+"Summary" = "Resumen";
+"Total Moments" = "Momentos totales";
+"Current Streak" = "Racha actual";
+"Loading statistics..." = "Cargando estadísticas...";
+"Moments" = "Momentos";
+
+// Profile View
+"Moments User" = "Usuario de Momentos";
+"Edit name" = "Editar nombre";
+"Daily Goal" = "Meta diaria";
+"Set a goal to add at least 1 moment per day" = "Establece la meta de agregar al menos 1 momento por día";
+"Notifications" = "Notificaciones";
+"Get reminded to add moments" = "Recibe recordatorios para agregar momentos";
+"Reminder Time" = "Hora del recordatorio";
+"Not set" = "No configurado";
+"About Moments" = "Acerca de Momentos";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Momentos te ayuda a notar y apreciar las pequeñas cosas que hacen que la vida sea hermosa. Cada momento cuenta, sin importar cuán pequeño sea.";
+"Thank you for using Moments!" = "¡Gracias por usar Momentos!";
+"Export Data" = "Exportar datos";
+"Clear All Data" = "Borrar todos los datos";
+"Delete" = "Eliminar";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "¿Estás seguro de que quieres eliminar todos los momentos y restablecer la configuración? Esta acción no se puede deshacer.";
+"Enter your name" = "Ingresa tu nombre";
+"Save" = "Guardar";
+"Edit Name" = "Editar nombre";
+"Cancel" = "Cancelar";
+"Set Time" = "Establecer hora";
+"Set Reminder Time" = "Establecer hora del recordatorio";

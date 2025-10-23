@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "Moments";
+
+// Language Selection
+"Choose your language" = "Choose your language";
+"Your device language:" = "Your device language:";
+"Select Language" = "Select Language";
+"Continue" = "Continue";
+"Language" = "Language";
+"Done" = "Done";
+
+// Tab Bar
+"Today" = "Today";
+"Catalog" = "Catalog";
+"Add" = "Add";
+"Statistics" = "Statistics";
+"Profile" = "Profile";
+
+// Today View
+"Daily Goal: ✅ Completed" = "Daily Goal: ✅ Completed";
+"Daily Goal: Add 1 moment" = "Daily Goal: Add 1 moment";
+"No moments today yet" = "No moments today yet";
+"Tap the + button to add your first moment of the day!" = "Tap the + button to add your first moment of the day!";
+"Daily Goal Achieved!" = "Daily Goal Achieved!";
+"Great job! Keep it up! 💪" = "Great job! Keep it up! 💪";
+
+// Inspirational Quotes
+"Every moment matters" = "Every moment matters";
+"Find joy in the little things" = "Find joy in the little things";
+"Appreciate the present" = "Appreciate the present";
+"Small moments make big memories" = "Small moments make big memories";
+"Happiness is in the details" = "Happiness is in the details";
+"Live in the moment" = "Live in the moment";
+"Cherish every second" = "Cherish every second";
+"Find beauty in simplicity" = "Find beauty in simplicity";
+"Moments create memories" = "Moments create memories";
+"Be present, be happy" = "Be present, be happy";
+
+// Add Moment View
+"What made you smile today?" = "What made you smile today?";
+"Enter your moment..." = "Enter your moment...";
+"Enter up to 25 characters" = "Enter up to 25 characters";
+"Choose an emoji" = "Choose an emoji";
+"Recently used" = "Recently used";
+"Popular" = "Popular";
+"Save Moment" = "Save Moment";
+"Moment saved!" = "Moment saved!";
+
+// Catalog View
+"Search moments..." = "Search moments...";
+"No moments yet" = "No moments yet";
+"Add your first moment to see it here!" = "Add your first moment to see it here!";
+"No moments found" = "No moments found";
+"Try searching with different keywords" = "Try searching with different keywords";
+
+// Statistics View
+"Your Moments" = "Your Moments";
+"Statistics" = "Statistics";
+"Top 5 Moments" = "Top 5 Moments";
+"times" = "times";
+"Activity" = "Activity";
+"No activity yet" = "No activity yet";
+"Time Distribution" = "Time Distribution";
+"Morning" = "Morning";
+"Afternoon" = "Afternoon";
+"Evening" = "Evening";
+"Night" = "Night";
+"Summary" = "Summary";
+"Total Moments" = "Total Moments";
+"Current Streak" = "Current Streak";
+"Loading statistics..." = "Loading statistics...";
+"Moments" = "Moments";
+
+// Profile View
+"Moments User" = "Moments User";
+"Edit name" = "Edit name";
+"Daily Goal" = "Daily Goal";
+"Set a goal to add at least 1 moment per day" = "Set a goal to add at least 1 moment per day";
+"Notifications" = "Notifications";
+"Get reminded to add moments" = "Get reminded to add moments";
+"Reminder Time" = "Reminder Time";
+"Not set" = "Not set";
+"About Moments" = "About Moments";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small.";
+"Thank you for using Moments!" = "Thank you for using Moments!";
+"Export Data" = "Export Data";
+"Clear All Data" = "Clear All Data";
+"Delete" = "Delete";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "Are you sure you want to delete all moments and reset settings? This action cannot be undone.";
+"Enter your name" = "Enter your name";
+"Save" = "Save";
+"Edit Name" = "Edit Name";
+"Cancel" = "Cancel";
+"Set Time" = "Set Time";
+"Set Reminder Time" = "Set Reminder Time";

@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Moments
+
+  Created by AI Assistant on 2025-10-22.
+*/
+
+// App Title
+"Moments" = "モーメント";
+
+// Language Selection
+"Choose your language" = "言語を選択";
+"Your device language:" = "デバイスの言語：";
+"Select Language" = "言語を選択";
+"Continue" = "続ける";
+"Language" = "言語";
+"Done" = "完了";
+
+// Tab Bar
+"Today" = "今日";
+"Catalog" = "カタログ";
+"Add" = "追加";
+"Statistics" = "統計";
+"Profile" = "プロフィール";
+
+// Today View
+"Daily Goal: ✅ Completed" = "デイリーゴール：✅ 達成";
+"Daily Goal: Add 1 moment" = "デイリーゴール：1つのモーメントを追加";
+"No moments today yet" = "今日はまだモーメントがありません";
+"Tap the + button to add your first moment of the day!" = "+ボタンをタップして今日の最初のモーメントを追加しましょう！";
+"Daily Goal Achieved!" = "デイリーゴール達成！";
+"Great job! Keep it up! 💪" = "素晴らしい！その調子で！💪";
+
+// Add Moment View
+"What made you smile today?" = "今日は何があなたを笑顔にしましたか？";
+"Enter your moment..." = "モーメントを入力...";
+"Enter up to 25 characters" = "最大25文字まで入力";
+"Choose an emoji" = "絵文字を選択";
+"Recently used" = "最近使用した";
+"Popular" = "人気";
+"Save Moment" = "モーメントを保存";
+"Moment saved!" = "モーメントが保存されました！";
+
+// Catalog View
+"Search moments..." = "モーメントを検索...";
+"No moments yet" = "まだモーメントがありません";
+"Add your first moment to see it here!" = "最初のモーメントを追加してここに表示しましょう！";
+"No moments found" = "モーメントが見つかりません";
+"Try searching with different keywords" = "別のキーワードで検索してみてください";
+
+// Statistics View
+"Your Moments" = "あなたのモーメント";
+"Statistics" = "統計";
+"Top 5 Moments" = "トップ5モーメント";
+"times" = "回";
+"Activity" = "アクティビティ";
+"No activity yet" = "まだアクティビティがありません";
+"Time Distribution" = "時間分布";
+"Morning" = "朝";
+"Afternoon" = "午後";
+"Evening" = "夕方";
+"Night" = "夜";
+"Summary" = "概要";
+"Total Moments" = "合計モーメント";
+"Current Streak" = "現在の連続記録";
+"Loading statistics..." = "統計を読み込み中...";
+"Moments" = "モーメント";
+
+// Profile View
+"Moments User" = "モーメントユーザー";
+"Edit name" = "名前を編集";
+"Daily Goal" = "デイリーゴール";
+"Set a goal to add at least 1 moment per day" = "1日に少なくとも1つのモーメントを追加する目標を設定";
+"Notifications" = "通知";
+"Get reminded to add moments" = "モーメント追加のリマインダーを受け取る";
+"Reminder Time" = "リマインダー時刻";
+"Not set" = "未設定";
+"About Moments" = "モーメントについて";
+"Moments helps you notice and appreciate the little things that make life beautiful. Every moment counts, no matter how small." = "モーメントは、人生を美しくする小さなことに気づき、感謝するのに役立ちます。どんなに小さくても、すべてのモーメントが大切です。";
+"Thank you for using Moments!" = "モーメントをご利用いただきありがとうございます！";
+"Export Data" = "データをエクスポート";
+"Clear All Data" = "すべてのデータをクリア";
+"Delete" = "削除";
+"Are you sure you want to delete all moments and reset settings? This action cannot be undone." = "すべてのモーメントを削除して設定をリセットしてもよろしいですか？この操作は元に戻せません。";
+"Enter your name" = "名前を入力";
+"Save" = "保存";
+"Edit Name" = "名前を編集";
+"Cancel" = "キャンセル";
+"Set Time" = "時刻を設定";
+"Set Reminder Time" = "リマインダー時刻を設定";
+// Inspirational Quotes
+"Every moment matters" = "すべての瞬間が大切です";
+"Find joy in the little things" = "小さなことに喜びを見つける";
+"Appreciate the present" = "今を大切に";
+"Small moments make big memories" = "小さな瞬間が大きな思い出を作る";
+"Happiness is in the details" = "幸せは細部に宿る";
+"Live in the moment" = "今を生きる";
+"Cherish every second" = "一秒一秒を大切に";
+"Find beauty in simplicity" = "シンプルさに美を見出す";
+"Moments create memories" = "瞬間が思い出を作る";
+"Be present, be happy" = "今ここにいて、幸せでいる";
